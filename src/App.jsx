@@ -76,7 +76,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#080c14] text-slate-100">
+    <div className="min-h-screen flex flex-col bg-[#f8fafc] text-slate-900">
       
       {/* Top Navbar */}
       <Navbar
@@ -91,8 +91,8 @@ export default function App() {
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {loading ? (
           <div className="flex flex-col items-center justify-center min-h-[50vh] space-y-4">
-            <div className="w-12 h-12 border-3 border-pink-500 border-t-transparent rounded-full animate-spin"></div>
-            <p className="text-sm text-slate-400 font-medium">
+            <div className="w-12 h-12 border-4 border-pink-500 border-t-transparent rounded-full animate-spin"></div>
+            <p className="text-sm text-slate-600 font-medium">
               Synchronizing 26 autonomous dating agents...
             </p>
           </div>
@@ -148,14 +148,14 @@ export default function App() {
       />
 
       {/* Global Bottom Footer */}
-      <footer className="glass-panel border-t border-white/5 py-8 mt-12 bg-[#060910]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
+      <footer className="glass-panel border-t border-slate-200 py-8 mt-12 bg-white/90">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div className="flex items-center gap-2">
             <Heart className="w-4 h-4 text-pink-500 fill-pink-500/20" />
-            <span className="font-semibold text-slate-300">Affinity AI</span>
+            <span className="font-semibold text-slate-800">Affinity AI</span>
             <span>— Autonomous Agentic Dating Ecosystem</span>
           </div>
-          <div className="flex items-center gap-4 text-slate-400">
+          <div className="flex items-center gap-4 text-slate-500">
             <span>26 Verified Real Personas</span>
             <span>•</span>
             <span>Dual-Source Ground Truth (LinkedIn + Instagram)</span>

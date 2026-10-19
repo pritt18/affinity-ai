@@ -38,23 +38,23 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
     <div className="space-y-8 animate-fadeIn">
       
       {/* Hero Intro Banner */}
-      <div className="relative overflow-hidden rounded-3xl p-6 sm:p-10 glass-panel border border-white/10 bg-gradient-to-br from-slate-900/90 via-[#0d1322] to-slate-900/90 shadow-2xl">
+      <div className="relative overflow-hidden rounded-3xl p-6 sm:p-10 glass-panel border border-slate-200/90 bg-gradient-to-br from-white via-pink-50/30 to-purple-50/20 shadow-sm">
         <div className="relative z-10 max-w-3xl">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-pink-500/15 text-pink-400 border border-pink-500/30 mb-4">
-            <Sparkles className="w-3.5 h-3.5" />
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-pink-100 text-pink-700 border border-pink-200 mb-4">
+            <Sparkles className="w-3.5 h-3.5 text-pink-600" />
             <span>Autonomous Dating Network • 26 Real People Active</span>
           </div>
-          <h1 className="text-3xl sm:text-5xl font-extrabold text-white tracking-tight leading-tight">
+          <h1 className="text-3xl sm:text-5xl font-extrabold text-slate-900 tracking-tight leading-tight">
             AI Agents Dating on Behalf of <span className="text-gradient">Real People</span>
           </h1>
-          <p className="mt-3 text-base sm:text-lg text-slate-300 leading-relaxed font-light">
-            Each person is mined solely from their <strong className="text-pink-400 font-semibold">LinkedIn</strong> and <strong className="text-pink-400 font-semibold">Instagram</strong> footprints. Their autonomous agent analyzes their deepest needs, hobbies, interests, and personality—then dates other agents in real-time.
+          <p className="mt-3 text-base sm:text-lg text-slate-600 leading-relaxed font-normal">
+            Each person is mined solely from their <strong className="text-pink-600 font-semibold">LinkedIn</strong> and <strong className="text-pink-600 font-semibold">Instagram</strong> footprints. Their autonomous agent analyzes their deepest needs, hobbies, interests, and personality—then dates other agents in real-time.
           </p>
         </div>
 
         {/* Ambient Decorative Glow */}
-        <div className="absolute -top-24 -right-24 w-96 h-96 bg-pink-600/10 rounded-full blur-3xl pointer-events-none"></div>
-        <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-purple-600/10 rounded-full blur-3xl pointer-events-none"></div>
+        <div className="absolute -top-24 -right-24 w-96 h-96 bg-pink-200/30 rounded-full blur-3xl pointer-events-none"></div>
+        <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-purple-200/25 rounded-full blur-3xl pointer-events-none"></div>
       </div>
 
       {/* Search & Filter Toolbar */}
@@ -68,7 +68,7 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
             placeholder="Search by name, hobby (e.g. BJJ, synth), or interest..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-slate-900/80 border border-white/10 text-slate-200 placeholder-slate-500 text-sm focus:outline-none focus:border-pink-500/50 focus:ring-1 focus:ring-pink-500/30 transition-all"
+            className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-white border border-slate-300 text-slate-800 placeholder-slate-400 text-sm focus:outline-none focus:border-pink-500 focus:ring-2 focus:ring-pink-500/20 shadow-xs transition-all"
           />
         </div>
 
@@ -84,10 +84,10 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
             <button
               key={tab.id}
               onClick={() => setSelectedFilter(tab.id)}
-              className={`px-3 py-1.5 rounded-xl text-xs font-medium whitespace-nowrap transition-all ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-semibold whitespace-nowrap transition-all ${
                 selectedFilter === tab.id
-                  ? 'bg-pink-500/20 text-pink-300 border border-pink-500/40 shadow-sm'
-                  : 'bg-slate-900/60 text-slate-400 hover:text-slate-200 border border-white/5'
+                  ? 'bg-pink-100 text-pink-800 border border-pink-300 shadow-xs'
+                  : 'bg-white text-slate-600 hover:text-slate-900 border border-slate-200'
               }`}
             >
               {tab.label}
@@ -104,7 +104,7 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
           return (
             <div
               key={person.id}
-              className="group glass-panel rounded-2xl sm:rounded-3xl border border-white/10 overflow-hidden flex flex-col justify-between glass-panel-hover"
+              className="group glass-panel rounded-2xl sm:rounded-3xl border border-slate-200/90 bg-white overflow-hidden flex flex-col justify-between glass-panel-hover shadow-sm"
             >
               <div>
                 {/* Card Header & Avatar */}
@@ -115,18 +115,18 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
                         <img
                           src={person.avatar}
                           alt={person.name}
-                          className="w-14 h-14 rounded-2xl object-cover border-2 border-white/10 group-hover:border-pink-500/50 transition-colors bg-slate-800"
+                          className="w-14 h-14 rounded-2xl object-cover border-2 border-slate-200 group-hover:border-pink-400 transition-colors bg-slate-100 shadow-xs"
                         />
-                        <span className="absolute -bottom-1 -right-1 w-3.5 h-3.5 rounded-full bg-emerald-500 border-2 border-[#090d16]" title="Agent Online"></span>
+                        <span className="absolute -bottom-1 -right-1 w-3.5 h-3.5 rounded-full bg-emerald-500 border-2 border-white" title="Agent Online"></span>
                       </div>
                       <div>
-                        <h3 className="font-bold text-base text-white group-hover:text-pink-400 transition-colors flex items-center gap-1.5">
+                        <h3 className="font-bold text-base text-slate-900 group-hover:text-pink-600 transition-colors flex items-center gap-1.5">
                           {person.name}
                         </h3>
-                        <p className="text-xs text-slate-400 line-clamp-1">
+                        <p className="text-xs text-slate-500 line-clamp-1 font-medium">
                           {person.title}
                         </p>
-                        <span className="inline-block mt-1 text-[10px] uppercase font-semibold text-pink-400/90 tracking-wider">
+                        <span className="inline-block mt-1 text-[10px] uppercase font-bold text-pink-600 tracking-wider">
                           {agentAnalysis.qualities.energyType}
                         </span>
                       </div>
@@ -134,56 +134,56 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
                   </div>
 
                   {/* The Two Official Links */}
-                  <div className="mt-3 pt-3 border-t border-white/5 flex items-center gap-2">
+                  <div className="mt-3 pt-3 border-t border-slate-100 flex items-center gap-2">
                     <a
                       href={person.linkedinUrl}
                       target="_blank"
                       rel="noopener noreferrer"
                       onClick={(e) => e.stopPropagation()}
-                      className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-blue-950/40 hover:bg-blue-900/60 text-blue-300 border border-blue-500/20 text-[11px] font-medium transition-colors"
+                      className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-blue-50 hover:bg-blue-100 text-blue-700 border border-blue-200 text-[11px] font-semibold transition-colors"
                       title="LinkedIn Public Profile"
                     >
-                      <Linkedin className="w-3 h-3 text-blue-400" />
+                      <Linkedin className="w-3 h-3 text-blue-600" />
                       <span>LinkedIn</span>
-                      <ArrowUpRight className="w-2.5 h-2.5 opacity-60" />
+                      <ArrowUpRight className="w-2.5 h-2.5 opacity-70" />
                     </a>
                     <a
                       href={person.instagramUrl}
                       target="_blank"
                       rel="noopener noreferrer"
                       onClick={(e) => e.stopPropagation()}
-                      className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-pink-950/40 hover:bg-pink-900/60 text-pink-300 border border-pink-500/20 text-[11px] font-medium transition-colors"
+                      className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-pink-50 hover:bg-pink-100 text-pink-700 border border-pink-200 text-[11px] font-semibold transition-colors"
                       title="Instagram Public Profile"
                     >
-                      <Instagram className="w-3 h-3 text-pink-400" />
+                      <Instagram className="w-3 h-3 text-pink-600" />
                       <span>Instagram</span>
-                      <ArrowUpRight className="w-2.5 h-2.5 opacity-60" />
+                      <ArrowUpRight className="w-2.5 h-2.5 opacity-70" />
                     </a>
                   </div>
                 </div>
 
                 {/* Analysis Preview Snippet */}
-                <div className="px-5 py-3 space-y-3 text-xs bg-slate-900/40 border-t border-b border-white/5">
+                <div className="px-5 py-3.5 space-y-3 text-xs bg-slate-50/80 border-t border-b border-slate-100">
                   {/* Needs Preview */}
                   <div>
-                    <span className="text-[11px] font-semibold uppercase tracking-wider text-slate-400 flex items-center gap-1">
-                      <Heart className="w-3 h-3 text-pink-400" />
+                    <span className="text-[11px] font-bold uppercase tracking-wider text-slate-500 flex items-center gap-1">
+                      <Heart className="w-3 h-3 text-pink-500" />
                       Core Relational Need
                     </span>
-                    <p className="text-slate-300 mt-1 line-clamp-2 italic">
+                    <p className="text-slate-700 mt-1 line-clamp-2 italic font-normal">
                       "{agentAnalysis.needs.emotional}"
                     </p>
                   </div>
 
                   {/* Hobbies Pills */}
                   <div>
-                    <span className="text-[10px] font-semibold uppercase tracking-wider text-slate-400 flex items-center gap-1 mb-1.5">
-                      <Compass className="w-3 h-3 text-amber-400" />
+                    <span className="text-[10px] font-bold uppercase tracking-wider text-slate-500 flex items-center gap-1 mb-1.5">
+                      <Compass className="w-3 h-3 text-amber-500" />
                       Extracted Hobbies
                     </span>
                     <div className="flex flex-wrap gap-1.5">
                       {agentAnalysis.hobbies.slice(0, 3).map((h, i) => (
-                        <span key={i} className="px-2 py-0.5 rounded-md bg-amber-500/10 text-amber-300 text-[11px] border border-amber-500/20">
+                        <span key={i} className="px-2 py-0.5 rounded-md bg-amber-50 text-amber-800 text-[11px] border border-amber-200/80 font-medium">
                           {h}
                         </span>
                       ))}
@@ -192,13 +192,13 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
 
                   {/* Interests Pills */}
                   <div>
-                    <span className="text-[10px] font-semibold uppercase tracking-wider text-slate-400 flex items-center gap-1 mb-1.5">
-                      <Sparkles className="w-3 h-3 text-purple-400" />
+                    <span className="text-[10px] font-bold uppercase tracking-wider text-slate-500 flex items-center gap-1 mb-1.5">
+                      <Sparkles className="w-3 h-3 text-purple-500" />
                       Intellectual Passions
                     </span>
                     <div className="flex flex-wrap gap-1.5">
                       {agentAnalysis.interests.slice(0, 2).map((int, i) => (
-                        <span key={i} className="px-2 py-0.5 rounded-md bg-purple-500/10 text-purple-300 text-[11px] border border-purple-500/20">
+                        <span key={i} className="px-2 py-0.5 rounded-md bg-purple-50 text-purple-800 text-[11px] border border-purple-200/80 font-medium">
                           {int}
                         </span>
                       ))}
@@ -208,28 +208,28 @@ export default function ProfileExplorer({ people, onSelectPerson, onLaunchDate, 
               </div>
 
               {/* Card Footer Actions */}
-              <div className="p-4 bg-slate-900/70 flex items-center justify-between gap-2">
+              <div className="p-4 bg-white flex items-center justify-between gap-2 border-t border-slate-100">
                 <button
                   onClick={() => onSelectPerson(person)}
-                  className="flex-1 flex items-center justify-center gap-1.5 py-2 px-3 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-medium border border-white/10 transition-colors"
+                  className="flex-1 flex items-center justify-center gap-1.5 py-2 px-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-semibold border border-slate-200 transition-colors"
                 >
-                  <Eye className="w-3.5 h-3.5 text-pink-400" />
+                  <Eye className="w-3.5 h-3.5 text-pink-600" />
                   <span>Inspect Dossier</span>
                 </button>
                 <button
                   onClick={() => onLaunchDate(person)}
-                  className="flex items-center justify-center gap-1.5 py-2 px-3 rounded-xl bg-pink-500/20 hover:bg-pink-500/30 text-pink-300 border border-pink-500/30 text-xs font-medium transition-colors"
+                  className="flex items-center justify-center gap-1.5 py-2 px-3.5 rounded-xl bg-pink-50 hover:bg-pink-100 text-pink-700 border border-pink-200 text-xs font-semibold transition-colors"
                   title="Launch Date"
                 >
-                  <Flame className="w-3.5 h-3.5 text-pink-400" />
+                  <Flame className="w-3.5 h-3.5 text-pink-600" />
                   <span>Date</span>
                 </button>
                 <button
                   onClick={() => onViewRankings(person)}
-                  className="flex items-center justify-center p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 border border-white/5 transition-colors"
+                  className="flex items-center justify-center p-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-600 border border-slate-200 transition-colors"
                   title="View Rankings for this Person"
                 >
-                  <Award className="w-3.5 h-3.5 text-amber-400" />
+                  <Award className="w-3.5 h-3.5 text-amber-500" />
                 </button>
               </div>
             </div>
