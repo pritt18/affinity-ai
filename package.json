@@ -1,0 +1,34 @@
+{
+  "name": "affinity-ai",
+  "version": "1.0.0",
+  "description": "Autonomous Agentic Dating Platform where AI agents date on behalf of real people based on their LinkedIn and Instagram footprints.",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently -k -p \"[{name}]\" -n \"SERVER,CLIENT\" -c \"cyan.bold,magenta.bold\" \"npm run server\" \"npm run client\"",
+    "server": "node server/index.js",
+    "client": "vite",
+    "build": "vite build",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "lucide-react": "^0.475.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^9.1.2",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.1.0"
+  }
+}

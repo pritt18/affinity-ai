@@ -1,0 +1,2389 @@
+[
+  {
+    "id": "lex-fridman",
+    "name": "Lex Fridman",
+    "title": "AI Researcher at MIT & Host of the Lex Fridman Podcast",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/lexfridman",
+    "instagramUrl": "https://www.instagram.com/lexfridman",
+    "bio": "AI researcher studying human-robot interaction and autonomous systems, Brazilian Jiu-Jitsu black belt, guitarist, and long-form conversationalist fascinated by love, mortality, and the cosmos.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Research Scientist at MIT | Artificial Intelligence, Autonomous Vehicles, Human-Centered AI",
+        "summary": "Focusing on machine learning, deep neural networks, computer vision, and the dynamics of human-robot teaming in safety-critical domains.",
+        "skills": [
+          "Machine Learning",
+          "Autonomous Vehicles",
+          "Python",
+          "Deep Learning",
+          "Robotics Research"
+        ],
+        "education": "Drexel University (PhD in Computer Science)"
+      },
+      "instagramData": {
+        "bio": "Podcast host. AI researcher at MIT. Jujitsu. Guitar. Books. Love.",
+        "postsSummary": "Black suit selfies, Dostoevsky paperbacks, acoustic guitar practice, intensive BJJ sparring clips, marathon running tracks.",
+        "tags": [
+          "#bjj",
+          "#guitar",
+          "#books",
+          "#ai",
+          "#running"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Craves profound emotional vulnerability, quiet devotion, and unconditional empathy paired with intellectual depth.",
+        "intellectual": "Long 4-hour philosophical dialogues exploring consciousness, history, ethics, literature, and the future of humanity.",
+        "lifestyle": "Rigorous daily routine: 4 hours deep work, intense physical martial arts or marathon sessions, quiet evenings reading classical literature.",
+        "partnerPace": "Thoughtful, slow-burn romantic cadence; highly values loyalty, stoicism, and gentle emotional warmth."
+      },
+      "hobbies": [
+        "Brazilian Jiu-Jitsu (Black Belt)",
+        "Acoustic & Classical Guitar",
+        "Long-Distance Marathon Running",
+        "Classical Russian Literature"
+      ],
+      "interests": [
+        "Artificial General Intelligence",
+        "Space Colonization",
+        "Human Connection & Love",
+        "Ancient Philosophy",
+        "Robotics"
+      ],
+      "qualities": {
+        "traits": [
+          "Introspective",
+          "Gentle-Spoken",
+          "Disciplined",
+          "Eternally Curious",
+          "Hopeless Romantic"
+        ],
+        "communicationStyle": "Deliberate, patient, softly modulated with pauses to absorb the other person's soul.",
+        "values": [
+          "Truth-seeking",
+          "Empathy",
+          "Physical grit",
+          "Intellectual humility",
+          "Devotion"
+        ],
+        "energyType": "Deep Introvert with selective intense public warmth",
+        "quirks": "Wears identical black suits everywhere; asks complete strangers about their deepest existential fears within 10 minutes."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Intellectually passionate",
+          "Emotionally mature",
+          "Appreciates silence without awkwardness",
+          "Artistic or scientific curiosity"
+        ],
+        "dealbreakers": [
+          "Cynicism",
+          "Superficial small talk",
+          "Lack of discipline",
+          "Arrogance"
+        ],
+        "loveLanguage": "Quality Time & Deep Intellectual Connection"
+      }
+    },
+    "stats": {
+      "datesCompleted": 6,
+      "topMatch": "Simone Giertz",
+      "topScore": 92
+    }
+  },
+  {
+    "id": "sara-blakely",
+    "name": "Sara Blakely",
+    "title": "Founder of Spanx & Sneex | Philanthropist & Investor",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/sarablakely",
+    "instagramUrl": "https://www.instagram.com/sarablakely",
+    "bio": "Self-made pioneer, inventor of Spanx, proud mother of 4, unapologetic dreamer who turns failure into comedy and celebrated resilience.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Founder & Executive Chairwoman at SPANX | Board Member | Investor",
+        "summary": "Built a global apparel revolution from $5,000 savings with zero outside investment; champion of female entrepreneurship and daring innovation.",
+        "skills": [
+          "Brand Strategy",
+          "Product Innovation",
+          "Public Speaking",
+          "Bootstrapping",
+          "Leadership"
+        ],
+        "education": "Florida State University (B.S. in Communications)"
+      },
+      "instagramData": {
+        "bio": "Inventor & Entrepreneur. Mom of 4. SPANX founder. Belly laughs & believing in your ideas.",
+        "postsSummary": "Playful behind-the-scenes sketches, family pancake Sundays, inspirational whiteboard brainstorms, self-deprecating humor.",
+        "tags": [
+          "#entrepreneur",
+          "#inventor",
+          "#motherhood",
+          "#spanx",
+          "#resilience"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Loves high-spirited playfulness, psychological safety to be silly, and unwavering celebration of bold dreams.",
+        "intellectual": "Creative brainstorming, non-traditional problem solving, unconventional business ideas, and human behavioral psychology.",
+        "lifestyle": "Vibrant, high-energy household, spontaneous weekend adventures with family, constant invention notebooks by the bedside.",
+        "partnerPace": "Dynamic and expressive; quick to laugh, fast to forgive, and constantly radiating optimism."
+      },
+      "hobbies": [
+        "Invention Prototyping",
+        "Stand-Up Comedy & Sketch Humor",
+        "Family Board Game Marathons",
+        "Karaoke & Dancing"
+      ],
+      "interests": [
+        "Female Empowerment",
+        "Consumer Product Design",
+        "Mindset & Overcoming Fear",
+        "Philanthropy"
+      ],
+      "qualities": {
+        "traits": [
+          "Magnetic",
+          "Resilient",
+          "Hilarious",
+          "Generous",
+          "Visionary"
+        ],
+        "communicationStyle": "Warm, animated, peppered with infectious laughter and candid vulnerability.",
+        "values": [
+          "Courage over comfort",
+          "Humor as medicine",
+          "Generosity",
+          "Family loyalty"
+        ],
+        "energyType": "High-vibration Extrovert",
+        "quirks": "Keeps a 'doodle notebook' in her purse at all times; celebrates failures with celebratory dinners."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Huge sense of humor",
+          "Secured in their own skin",
+          "Supportive of big ambitions",
+          "Loves family chaos"
+        ],
+        "dealbreakers": [
+          "Rigidity",
+          "Pessimism",
+          "Condescending attitudes",
+          "Fear of looking foolish"
+        ],
+        "loveLanguage": "Words of Affirmation & Shared Joyful Experiences"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Shaan Puri",
+      "topScore": 89
+    }
+  },
+  {
+    "id": "marques-brownlee",
+    "name": "Marques Brownlee",
+    "title": "Creator & Host at MKBHD | Pro Ultimate Frisbee Player",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/marquesbrownlee",
+    "instagramUrl": "https://www.instagram.com/mkbhd",
+    "bio": "Foremost tech storyteller, cinematic gear head, professional ultimate frisbee athlete, and perfectionist driven by clean industrial design.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Lead Video Producer & Host at MKBHD / Studio | Tech Reviewer",
+        "summary": "16+ years breaking down state-of-the-art consumer electronics, electric vehicles, and smartphone ecosystems with peerless production fidelity.",
+        "skills": [
+          "Cinematography",
+          "Consumer Technology",
+          "Video Production",
+          "Studio Lighting",
+          "Industrial Design"
+        ],
+        "education": "Stevens Institute of Technology (B.S. in Business and Technology)"
+      },
+      "instagramData": {
+        "bio": "Quality tech videos | Pro Ultimate Frisbee for NY Empire | Dog dad to Mac & Nova | Matte Black everything.",
+        "postsSummary": "Crisp red-and-matte-black gear setups, high-frame-rate drone captures, Frisbee championship highlights, backstage studio rig tours.",
+        "tags": [
+          "#mkbhd",
+          "#matteblack",
+          "#tech",
+          "#ultimatefrisbee",
+          "#apple"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Calm, grounded companionship without artificial drama; deep appreciation for mutual craftsmanship and work flow.",
+        "intellectual": "Discussions on automotive engineering, industrial ergonomics, human-interface design, and camera optics.",
+        "lifestyle": "Methodical, disciplined studio routine balanced with competitive athletic tournaments on weekends; clean, minimalist living.",
+        "partnerPace": "Steady, reliable, composed; expresses care through acts of service and quiet quality presence."
+      },
+      "hobbies": [
+        "Pro Ultimate Frisbee (AUDL Champion)",
+        "Cinematic Color Grading",
+        "EV Track Driving",
+        "Retro Sneaker Collecting"
+      ],
+      "interests": [
+        "Industrial Design & Minimalism",
+        "Robotic Motion Control",
+        "Battery Chemistry",
+        "Audio Engineering"
+      ],
+      "qualities": {
+        "traits": [
+          "Composed",
+          "Detail-Oriented",
+          "Humble",
+          "Athletic",
+          "Aesthetic Perfectionist"
+        ],
+        "communicationStyle": "Silky-smooth, crystal clear, concise, and remarkably polite.",
+        "values": [
+          "Craftsmanship",
+          "Honesty in critique",
+          "Athletic discipline",
+          "Simplicity"
+        ],
+        "energyType": "Centered Introvert with high visual charisma",
+        "quirks": "Refuses to buy anything that doesn't come in matte black; checks screen refresh rates within 3 seconds of holding any device."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Authentic",
+          "Passionate about their own craft",
+          "Enjoys active outdoor weekends",
+          "Appreciates minimalist order"
+        ],
+        "dealbreakers": [
+          "Chaos & disorganization",
+          "Superficiality",
+          "Aggressive drama",
+          "Poor punctuality"
+        ],
+        "loveLanguage": "Acts of Service & Shared Adventures"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Cleo Abram",
+      "topScore": 95
+    }
+  },
+  {
+    "id": "simone-giertz",
+    "name": "Simone Giertz",
+    "title": "Inventor, Roboticist & Founder of Yetch Store",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/simonegiertz",
+    "instagramUrl": "https://www.instagram.com/simonegiertz",
+    "bio": "The queen of delightful and useless robots turned master product designer; transformed a Tesla Model 3 into a pickup truck (Truckla) and builds everyday kinetic marvels.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Product Designer, Inventor, Roboticist & CEO at Yetch",
+        "summary": "Bridging whimsical prototyping with precision consumer hardware manufacturing; creator of the Every Day Calendar and foldable coat hanger.",
+        "skills": [
+          "Hardware Prototyping",
+          "CNC Machining",
+          "Industrial Design",
+          "Creative Storytelling",
+          "Arduino"
+        ],
+        "education": "Royal Institute of Technology (KTH Sweden - Physics)"
+      },
+      "instagramData": {
+        "bio": "I make things. Inventor, YouTuber, founder of @yetch.store. Builder of Truckla. Dog lover.",
+        "postsSummary": "Workshop metal shavings, welding masks, charming 3D-printed prototypes, Scrappy the 3-legged dog, sailboat woodworking.",
+        "tags": [
+          "#inventor",
+          "#woodworking",
+          "#prototyping",
+          "#maker",
+          "#truckla"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Craves someone who loves eccentric curiosity, embraces imperfection, and finds romance in dusty workshops and laughter.",
+        "intellectual": "Clever mechanical contraptions, materials science, physics paradoxes, and off-beat human behavior.",
+        "lifestyle": "Hands-on maker lifestyle: smells like solder and cedar shavings; travels between coastal workshops and international design ateliers.",
+        "partnerPace": "Spontaneous, irreverent, deeply loyal, and enthusiastic about building shared wacky projects."
+      },
+      "hobbies": [
+        "Angle-Grinding & Welding",
+        "Sailboat Restoration",
+        "Dog Agility Training",
+        "Mechanical Puzzle Design"
+      ],
+      "interests": [
+        "Kinetic Art",
+        "Accessible Robotics",
+        "Swedish Design Minimalism",
+        "Neurobiology"
+      ],
+      "qualities": {
+        "traits": [
+          "Quirky",
+          "Brilliantly Creative",
+          "Grounded",
+          "Tenacious",
+          "Playful"
+        ],
+        "communicationStyle": "Witty, dry Scandinavian irony mixed with childlike wonder and energetic hand gestures.",
+        "values": [
+          "Curiosity without ego",
+          "Practical ingenuity",
+          "Resilience through illness",
+          "Authenticity"
+        ],
+        "energyType": "Ambivert Maker with boundless imaginative energy",
+        "quirks": "Names all power tools; judges restaurants by whether their chairs can be converted into foldable storage."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Doesn't mind sawdust in their hair",
+          "Intellectually adventurous",
+          "Quick to laugh at absurd situations",
+          "Independent maker spirit"
+        ],
+        "dealbreakers": [
+          "Stuffy formality",
+          "Fear of getting dirty",
+          "Controlling behavior",
+          "Snobbery"
+        ],
+        "loveLanguage": "Physical Touch & Collaborative Making"
+      }
+    },
+    "stats": {
+      "datesCompleted": 7,
+      "topMatch": "Lex Fridman",
+      "topScore": 92
+    }
+  },
+  {
+    "id": "andrew-ng",
+    "name": "Andrew Ng",
+    "title": "Managing General Partner at AI Fund | Founder of DeepLearning.AI",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/andrewyng",
+    "instagramUrl": "https://www.instagram.com/andrew_y_ng",
+    "bio": "Global AI luminary, educator who taught machine learning to millions, dedicated family man, and champion of ethical, accessible AI for global literacy.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Managing General Partner at AI Fund | Executive Chairman at LandingAI | Co-founder Coursera",
+        "summary": "Pioneered deep learning on GPUs, co-founded Google Brain, democratized machine learning education globally across 190+ countries.",
+        "skills": [
+          "Artificial Intelligence",
+          "Deep Learning",
+          "Educational Technology",
+          "Venture Building",
+          "Computer Science"
+        ],
+        "education": "UC Berkeley (PhD in Computer Science)"
+      },
+      "instagramData": {
+        "bio": "AI educator & researcher. Helping anyone learn AI. Family & teaching.",
+        "postsSummary": "Classroom lecture whiteboards, family hiking photos in the redwoods, snapshots from global AI summits, handwritten mathematical notes.",
+        "tags": [
+          "#ai",
+          "#deeplearning",
+          "#education",
+          "#coursera",
+          "#redwoods"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Calm, gentle nurturing, mutual intellectual respect, and shared dedication to making the world a kinder, smarter place.",
+        "intellectual": "Algorithmic safety, global education reform, cognitive models, mathematics of optimization, and climate tech.",
+        "lifestyle": "Quiet academic rhythms, weekend family nature walks, reading research papers over morning pour-over coffee.",
+        "partnerPace": "Patient, thoughtful, supportive; prioritizes enduring stability and quiet companionship over flashiness."
+      },
+      "hobbies": [
+        "Nature Trail Hiking",
+        "Pour-over Coffee Brewing",
+        "Handwriting Educational Notes",
+        "Teaching Mentorship"
+      ],
+      "interests": [
+        "Deep Learning Architectures",
+        "Democratization of Knowledge",
+        "Cognitive Science",
+        "Clean Energy"
+      ],
+      "qualities": {
+        "traits": [
+          "Exceptionally Patient",
+          "Humble",
+          "Insightful",
+          "Generous",
+          "Serene"
+        ],
+        "communicationStyle": "Soft-spoken, crystal-clear pedagogical clarity, never raises his voice.",
+        "values": [
+          "Lifelong learning",
+          "Kindness",
+          "Global equality",
+          "Patience"
+        ],
+        "energyType": "Gentle Introvert",
+        "quirks": "Draws gradient descent curves on paper napkins whenever explaining how habits form in daily life."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Intellectually inquisitive",
+          "Values education and family",
+          "Enjoys quiet nature retreats",
+          "Compassionate world view"
+        ],
+        "dealbreakers": [
+          "Cynicism towards teaching",
+          "Materialism",
+          "Rude behavior to service staff",
+          "Impatience"
+        ],
+        "loveLanguage": "Acts of Service & Quality Intellectual Time"
+      }
+    },
+    "stats": {
+      "datesCompleted": 4,
+      "topMatch": "Julie Zhuo",
+      "topScore": 88
+    }
+  },
+  {
+    "id": "pieter-levels",
+    "name": "Pieter Levels",
+    "title": "Solo Founder of Nomad List & Remote OK",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/levelsio",
+    "instagramUrl": "https://www.instagram.com/levelsio",
+    "bio": "The quintessential digital nomad, single-file bootstrapped hacker, electronic music DJ, and AI indie entrepreneur living out of carry-on backpacks across Europe and Asia.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Founder at Nomad List, Remote OK, PhotoAI, InteriorAI",
+        "summary": "Building profitable solo tech enterprises with vanilla PHP, SQLite, and jQuery; advocate of radical transparency and location independence.",
+        "skills": [
+          "Full-Stack Development",
+          "Bootstrapping",
+          "Indie Hacking",
+          "Generative AI",
+          "Remote Work Culture"
+        ],
+        "education": "Rotterdam School of Management (B.S. in Business Administration)"
+      },
+      "instagramData": {
+        "bio": "Hacker & DJ. Living out of one bag. Building @nomadlist @remoteok @photoai @interiorai.",
+        "postsSummary": "Laptop open on rooftop terraces in Lisbon and Bali, synth setups in hotel rooms, minimalist ultralight packing guides, sunset techno sets.",
+        "tags": [
+          "#nomadlife",
+          "#indiehacker",
+          "#lisbon",
+          "#remotework",
+          "#synth"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Freedom-oriented partner who hates conventional corporate monotony and wants to explore the globe with minimal baggage.",
+        "intellectual": "Rapid prototyping, AI automation, decentralized culture, electronic music synthesis, and geo-arbitrage lifestyles.",
+        "lifestyle": "Hyper-mobile digital nomad: changes cities every few months, codes late at night with lo-fi beats, hits local food markets by day.",
+        "partnerPace": "Spontaneous, fiercely independent, low-maintenance, and thrives in unfamiliar environments."
+      },
+      "hobbies": [
+        "Modular Synthesizers & DJing",
+        "Ultralight Backpacking",
+        "Street Photography",
+        "Surfing & Ocean Swimming"
+      ],
+      "interests": [
+        "Generative AI Models",
+        "Location Independence",
+        "Minimalist Philosophy",
+        "Electronic Music Production"
+      ],
+      "qualities": {
+        "traits": [
+          "Radically Pragmatic",
+          "Unconventional",
+          "Hyper-Focused",
+          "Resourceful",
+          "Direct"
+        ],
+        "communicationStyle": "Unfiltered, witty, meme-literate, straight to the point.",
+        "values": [
+          "Personal sovereignty",
+          "Simplicity over complexity",
+          "Action over theory",
+          "Mobility"
+        ],
+        "energyType": "Rebellious Ambivert",
+        "quirks": "Owns exactly two pairs of pants; codes entire production platforms in a single `index.php` file while waiting for flights."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Remote worker or nomad",
+          "Passionate about adventure",
+          "Doesn't demand rigid routines",
+          "Creative thinker"
+        ],
+        "dealbreakers": [
+          "Desire for white-picket-fence monotony",
+          "High maintenance material demands",
+          "Resistance to travel"
+        ],
+        "loveLanguage": "Shared Adventures & Words of Encouragement"
+      }
+    },
+    "stats": {
+      "datesCompleted": 6,
+      "topMatch": "Cassidy Williams",
+      "topScore": 87
+    }
+  },
+  {
+    "id": "justine-ezarik",
+    "name": "Justine Ezarik",
+    "title": "Tech Host, Author & Digital Creator (iJustine)",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/justineezarik",
+    "instagramUrl": "https://www.instagram.com/ijustine",
+    "bio": "Original YouTube tech trailblazer, drone pilot, Apple enthusiast, gamer, and video editor who has brought bubbly excitement to consumer tech for over two decades.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Executive Producer & Host at iJustine Productions | Author | Host",
+        "summary": "Digital media pioneer with over a billion views; keynote speaker on content creation, augmented reality, gaming, and lifestyle tech.",
+        "skills": [
+          "Content Strategy",
+          "Digital Broadcasting",
+          "Video Editing",
+          "Consumer Tech Reviews",
+          "Keynote Speaking"
+        ],
+        "education": "Pittsburgh Technical College (Multimedia & Graphic Design)"
+      },
+      "instagramData": {
+        "bio": "Tech, gaming, travel, food & my dogs! Apple nerd. Host of Same Brain podcast.",
+        "postsSummary": "Unboxing neon gadgets, gaming setup streams, puppy cuddle sessions, travel vlogs in Tokyo and Iceland, behind the scenes studio lighting.",
+        "tags": [
+          "#ijustine",
+          "#apple",
+          "#gaming",
+          "#techlover",
+          "#cutedogs"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Radiant positivity, shared enthusiasm for everyday wonders, and a partner who celebrates creative content without feeling intimidated.",
+        "intellectual": "Emerging tech trends, spatial computing, video production ergonomics, gaming narratives, and interactive entertainment.",
+        "lifestyle": "Fast-paced creator tempo: studio filming, tech launch trips, gaming marathons, cozy nights with rescue dogs.",
+        "partnerPace": "Warm, upbeat, energetic; loves taking spontaneous photos and trying cutting-edge gadgets together."
+      },
+      "hobbies": [
+        "Co-op Video Gaming (Nintendo/PS5)",
+        "Drone FPV Flying",
+        "Cooking & Baking Gadget Tests",
+        "Dog Agility Training"
+      ],
+      "interests": [
+        "Spatial Computing & VR",
+        "Video Editing Craft",
+        "Travel Photography",
+        "Culinary Technology"
+      ],
+      "qualities": {
+        "traits": [
+          "Enthusiastic",
+          "Loyal",
+          "Playfully Energetic",
+          "Hardworking",
+          "Optimistic"
+        ],
+        "communicationStyle": "Bubbly, fast-paced, expressive, punctuated with genuine laughter and bright smiles.",
+        "values": [
+          "Positivity",
+          "Work ethic",
+          "Loyalty to friends and family",
+          "Joy of creation"
+        ],
+        "energyType": "Radiant Extrovert",
+        "quirks": "Color-coordinates her tech accessories to her outfits; has an emotional connection to pristine packaging unboxing sounds."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Shares a passion for tech or creativity",
+          "Loves animals",
+          "High energy and fun",
+          "Emotionally supportive"
+        ],
+        "dealbreakers": [
+          "Debbie Downers",
+          "Disdain for modern internet culture",
+          "Cruelty to pets",
+          "Secretive behavior"
+        ],
+        "loveLanguage": "Quality Time & Thoughtful Tech Gifts"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Austin Evans",
+      "topScore": 94
+    }
+  },
+  {
+    "id": "alex-lieberman",
+    "name": "Alex Lieberman",
+    "title": "Co-founder & Executive Chairman of Morning Brew | Founder of StoryArb",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/alex-lieberman",
+    "instagramUrl": "https://www.instagram.com/alexlieberman",
+    "bio": "Media entrepreneur who co-founded Morning Brew from a college dorm into a modern media empire; now building new ventures and mentoring the next generation of founders.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Co-Founder & Executive Chairman at Morning Brew | Founder & CEO at StoryArb",
+        "summary": "Grew Morning Brew from zero to 4M+ daily readers and $50M+ revenue; passionate about creator businesses, mental health for founders, and storytelling.",
+        "skills": [
+          "Media Strategy",
+          "Newsletter Growth",
+          "Executive Coaching",
+          "Brand Building",
+          "Angel Investing"
+        ],
+        "education": "University of Michigan (Stephen M. Ross School of Business)"
+      },
+      "instagramData": {
+        "bio": "Building stuff. Co-founder @morningbrew. Sharing the messy middle of entrepreneurship & mental fitness.",
+        "postsSummary": "Morning run splits in Central Park, honest founder reflections on burnout, golf swings, behind-the-mic podcast recordings, dog walks.",
+        "tags": [
+          "#morningbrew",
+          "#founderlife",
+          "#running",
+          "#mentalhealth",
+          "#golf"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "High emotional honesty, space to decompress from business pressure, and grounded authentic love that transcends career status.",
+        "intellectual": "Modern media trends, founder psychology, habit architecture, storytelling mechanics, and financial markets.",
+        "lifestyle": "Structured mornings (coffee, journaling, workout), active networking lunches, weekend sports, and calm downtime with loved ones.",
+        "partnerPace": "Empathetic, communicative, balanced; loves checking in on mental wellness and sharing life ambitions."
+      },
+      "hobbies": [
+        "Golf",
+        "Morning Distance Running in Central Park",
+        "Writing Reflection Essays",
+        "Tennis"
+      ],
+      "interests": [
+        "Media Business Models",
+        "Founder Mental Health",
+        "Habit Optimization",
+        "Venture Investing"
+      ],
+      "qualities": {
+        "traits": [
+          "Reflective",
+          "Driven",
+          "Candid",
+          "Empathetic",
+          "Encouraging"
+        ],
+        "communicationStyle": "Articulate, open-hearted, inquisitive, asking probing questions about motivations.",
+        "values": [
+          "Vulnerability",
+          "Integrity",
+          "Lifelong ambition with balance",
+          "Family connection"
+        ],
+        "energyType": "Ambivert Leader with high emotional intelligence",
+        "quirks": "Analyzes email subject lines of promotional flyers; measures productivity in terms of headspace clarity."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Emotionally grounded",
+          "Has their own passion",
+          "Enjoys morning walks and fitness",
+          "Values deep conversation"
+        ],
+        "dealbreakers": [
+          "Emotional games",
+          "Excessive vanity",
+          "Apathy",
+          "Poor communication during conflict"
+        ],
+        "loveLanguage": "Words of Affirmation & Quality Time"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Natalie Barbu",
+      "topScore": 91
+    }
+  },
+  {
+    "id": "shaan-puri",
+    "name": "Shaan Puri",
+    "title": "Host of My First Million & Chairman of The Milk Road",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/shaanpuri",
+    "instagramUrl": "https://www.instagram.com/shaanpuri",
+    "bio": "Serial entrepreneur, high-octane storyteller, crypto/web3 pioneer, and podcast host who views every business as an exciting game to be mastered.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Host of My First Million Podcast | Chairman at Milk Road | Angel Investor",
+        "summary": "Sold Bebo to Twitch, built Milk Road into a multi-million-dollar newsletter in 10 months, investor in 50+ hypergrowth tech startups.",
+        "skills": [
+          "Viral Marketing",
+          "Podcast Production",
+          "Angel Investing",
+          "Venture Scaling",
+          "Storytelling"
+        ],
+        "education": "Duke University (B.S. in Biomedical Engineering)"
+      },
+      "instagramData": {
+        "bio": "Host of My First Million. I break down million dollar ideas. Family first.",
+        "postsSummary": "Whiteboard idea breakdowns, family vacation snaps in Hawaii, fitness transformations, candid podcast clips with top entrepreneurs.",
+        "tags": [
+          "#myfirstmillion",
+          "#entrepreneur",
+          "#businessideas",
+          "#family",
+          "#investing"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "High-energy enthusiasm, someone who laughs at audacious ideas and brings spontaneous excitement to life.",
+        "intellectual": "Frameworks for winning, storytelling breakdowns, crazy side-hustle concepts, and evolutionary psychology.",
+        "lifestyle": "Fast-paced ideation, flexible hours, world travel with family, daily workouts, and vibrant social dinners.",
+        "partnerPace": "Spontaneous, bold, expressive; loves playful debates and teasing without malice."
+      },
+      "hobbies": [
+        "Pickleball & Basketball",
+        "Brainstorming Unhinged Business Ideas",
+        "Hypnosis & Mindset Training",
+        "Family BBQ Cookouts"
+      ],
+      "interests": [
+        "Viral Media Dynamics",
+        "Alternative Assets",
+        "Consumer Psychology",
+        "Extreme Health Protocols"
+      ],
+      "qualities": {
+        "traits": [
+          "Charismatic",
+          "Bold",
+          "Humorous",
+          "Resourceful",
+          "Competitive"
+        ],
+        "communicationStyle": "Dynamic, storytelling-driven, energetic, full of vivid metaphors and punchy takeaways.",
+        "values": [
+          "Freedom",
+          "Family",
+          "Playful boldness",
+          "Action over bureaucracy"
+        ],
+        "energyType": "Electrifying Extrovert",
+        "quirks": "Rates everything in life on a '1 to 10 scale of juice'; cannot sit through a meeting without proposing 3 new businesses."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Sharp wit",
+          "Independent confidence",
+          "Can handle high energy and banter",
+          "Values close family ties"
+        ],
+        "dealbreakers": [
+          "Boring victim mentality",
+          "Being easily offended",
+          "Micro-management",
+          "Lack of ambition"
+        ],
+        "loveLanguage": "Physical Touch & Shared Big Wins"
+      }
+    },
+    "stats": {
+      "datesCompleted": 6,
+      "topMatch": "Sara Blakely",
+      "topScore": 89
+    }
+  },
+  {
+    "id": "sahil-bloom",
+    "name": "Sahil Bloom",
+    "title": "Author of The 5 Types of Wealth & Managing Partner at SRB Ventures",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/sahilbloom",
+    "instagramUrl": "https://www.instagram.com/sahilbloom",
+    "bio": "Former Stanford baseball pitcher turned private equity investor, author, and thought leader exploring the synthesis of time, health, relationships, and purpose.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Managing Partner at SRB Ventures | Author | Creator of The Curiosity Chronicle",
+        "summary": "Translates complex ideas on finance, philosophy, and mental models for over 1M weekly readers; investing in early-stage consumer and media tech.",
+        "skills": [
+          "Private Equity",
+          "Mental Models",
+          "Content Writing",
+          "Venture Capital",
+          "Athletic Performance"
+        ],
+        "education": "Stanford University (B.A. in Economics & Sociology, M.A. in Public Policy)"
+      },
+      "instagramData": {
+        "bio": "Author of The 5 Types of Wealth. Stanford baseball alum. Dad to Roman. Daily cold plunges & philosophy.",
+        "postsSummary": "Sunrise runs, ice bath cold plunges, handwritten journal quotes from Marcus Aurelius, father-son playtime, gym training.",
+        "tags": [
+          "#mentalmodels",
+          "#5typesofwealth",
+          "#stoicism",
+          "#fatherhood",
+          "#fitness"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Deep family devotion, quiet serenity, mutual encouragement in physical and mental mastery, and long-term commitment.",
+        "intellectual": "Mental models, ancient Stoic wisdom, parenting philosophy, health longevity protocols, and behavioral economics.",
+        "lifestyle": "Dawn wakeups, physical training, dedicated writing blocks, sacred evening family dinners without screens.",
+        "partnerPace": "Warm, intentional, steady; prioritizes emotional depth and building a multi-generational legacy."
+      },
+      "hobbies": [
+        "Baseball & Weightlifting",
+        "Cold Plunge & Sauna Protocols",
+        "Morning Journaling",
+        "Gardening & Cooking Simple Meals"
+      ],
+      "interests": [
+        "Stoicism & Virtue Ethics",
+        "Longevity Science",
+        "Parenting Psychology",
+        "Historical Biographies"
+      ],
+      "qualities": {
+        "traits": [
+          "Disciplined",
+          "Warm-Hearted",
+          "Thoughtful",
+          "Grounded",
+          "High-Agency"
+        ],
+        "communicationStyle": "Calm, structured, encouraging, focusing on gratitude and growth.",
+        "values": [
+          "Family first",
+          "Physical vigor",
+          "Intentional presence",
+          "Integrity"
+        ],
+        "energyType": "Centered Ambivert",
+        "quirks": "Takes notes on napkins during social gatherings about mental frameworks; cannot skip his 5:30 AM sunrise check."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Devoted to health and family",
+          "Emotionally stable and kind",
+          "Appreciates peaceful routines",
+          "Values deep connection"
+        ],
+        "dealbreakers": [
+          "Chronic drama",
+          "Unhealthy destructive habits",
+          "Superficiality",
+          "Lack of gratitude"
+        ],
+        "loveLanguage": "Acts of Service & Physical Affection"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Sara Dietschy",
+      "topScore": 86
+    }
+  },
+  {
+    "id": "austen-allred",
+    "name": "Austen Allred",
+    "title": "Co-founder & CEO of Bloom Institute of Technology",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/austenallred",
+    "instagramUrl": "https://www.instagram.com/austen",
+    "bio": "Pioneer in income-aligned higher education, father of three, relentless optimist who lived in his car in Silicon Valley to build an educational paradigm shift.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Co-founder & CEO at BloomTech | Y Combinator Alum",
+        "summary": "Reinventing higher education through outcome-based tuition and intensive career engineering; passionate about upward social mobility.",
+        "skills": [
+          "EdTech",
+          "Growth Hacking",
+          "Venture Financing",
+          "Product Strategy",
+          "Higher Education Reform"
+        ],
+        "education": "Brigham Young University"
+      },
+      "instagramData": {
+        "bio": "BloomTech CEO. Dad. Utah outdoors, mountains, skiing & building.",
+        "postsSummary": "Powder skiing in Utah canyons, campfire cooking, wrestling with his kids on the lawn, tech conference panels.",
+        "tags": [
+          "#bloomtech",
+          "#skiutah",
+          "#mountains",
+          "#fatherhood",
+          "#edtech"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Steadfast loyalty, warm domestic tranquility, and a partner who stands firm through both startup storms and peaceful mountain retreats.",
+        "intellectual": "Incentive design, economic mobility, online community learning, and historical educational revolutions.",
+        "lifestyle": "Family-centric life in the Utah mountains: fresh pine air, winter skiing, tech leadership, quiet community gatherings.",
+        "partnerPace": "Loyal, resilient, down-to-earth; values long-term commitment and family harmony."
+      },
+      "hobbies": [
+        "Backcountry Skiing",
+        "Mountain Hiking",
+        "Barbecue Smoking",
+        "Reading Economic History"
+      ],
+      "interests": [
+        "Educational Economics",
+        "Incentive Alignment",
+        "Public Policy",
+        "Social Mobility"
+      ],
+      "qualities": {
+        "traits": [
+          "Tenacious",
+          "Optimistic",
+          "Grounded",
+          "Family-Oriented",
+          "Direct"
+        ],
+        "communicationStyle": "Plain-spoken, earnest, warm, devoid of buzzword pretense.",
+        "values": [
+          "Opportunity for all",
+          "Family duty",
+          "Grit",
+          "Honesty"
+        ],
+        "energyType": "Grounded Extrovert",
+        "quirks": "Can calculate the IRR of any life decision in 3 seconds; tells campfire stories about sleeping in a Honda Civic."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Loves outdoor mountain life",
+          "Deep family values",
+          "Warm and unpretentious",
+          "Resilient spirit"
+        ],
+        "dealbreakers": [
+          "Cynicism",
+          "Material pretension",
+          "Disregard for children or family"
+        ],
+        "loveLanguage": "Quality Time & Physical Touch"
+      }
+    },
+    "stats": {
+      "datesCompleted": 4,
+      "topMatch": "Sara Blakely",
+      "topScore": 84
+    }
+  },
+  {
+    "id": "dharmesh-shah",
+    "name": "Dharmesh Shah",
+    "title": "Co-founder & CTO at HubSpot | Creator of Agent.ai",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/dharmesh",
+    "instagramUrl": "https://www.instagram.com/dharmesh",
+    "bio": "Beloved tech founder, author of the Culture Code, proud introvert, angel investor, and AI agent pioneer who believes culture and kindness are an organization's ultimate moat.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Co-founder & CTO at HubSpot | Founder at Agent.ai | Angel Investor",
+        "summary": "Architected HubSpot's inbound marketing revolution from MIT Sloan; author of Inbound Marketing and champion of transparent startup culture.",
+        "skills": [
+          "Software Architecture",
+          "Company Culture",
+          "Generative AI",
+          "Angel Investing",
+          "SaaS Strategy"
+        ],
+        "education": "MIT (M.S. in Management of Technology)"
+      },
+      "instagramData": {
+        "bio": "Introvert. HubSpot Co-founder & CTO. Founder of Agent.ai. Big fan of kindness, code & coffee.",
+        "postsSummary": "Snarky memes about introversion, stage selfies at INBOUND, coding late into the evening, books on culture and software craft.",
+        "tags": [
+          "#hubspot",
+          "#introvert",
+          "#aiagents",
+          "#kindness",
+          "#inbound"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Gentle gentility, complete absence of conflict or yelling, mutual kindness, and deep respect for solitude and quiet recharge.",
+        "intellectual": "Autonomous agent architectures, psychology of organizational cultures, elegant software abstractions, and domain names.",
+        "lifestyle": "Quiet coding sessions late at night, peaceful family moments, reading non-fiction books, avoiding loud sensory-overload parties.",
+        "partnerPace": "Soft, considerate, extremely courteous; shows love through subtle sweet gestures and technological surprises."
+      },
+      "hobbies": [
+        "Writing AI Agent Prototypes",
+        "Collecting Clever Domain Names",
+        "Designing Culture Slide Decks",
+        "Reading Psychology Books"
+      ],
+      "interests": [
+        "Agentic AI Systems",
+        "Organizational Empathy",
+        "Inbound Marketing Dynamics",
+        "SaaS Economics"
+      ],
+      "qualities": {
+        "traits": [
+          "Profoundly Kind",
+          "Introverted Genius",
+          "Self-Effacing",
+          "Generous",
+          "Visionary"
+        ],
+        "communicationStyle": "Gentle, self-deprecating, razor-sharp wit wrapped in immense politeness.",
+        "values": [
+          "Kindness",
+          "Transparency",
+          "Customer delight",
+          "Intellectual humility"
+        ],
+        "energyType": "Unapologetic Introvert",
+        "quirks": "Buys million-dollar domain names on a Sunday whim just because they sound poetic; wears custom introvert t-shirts."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Empathetic and gentle",
+          "Understands introverted energy needs",
+          "Intellectually curious",
+          "Naturally kind"
+        ],
+        "dealbreakers": [
+          "Cruelty or rudeness",
+          "Loud public arguments",
+          "Dishonesty",
+          "Pressure to be an aggressive extrovert"
+        ],
+        "loveLanguage": "Words of Affirmation & Thoughtful Surprises"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Simone Giertz",
+      "topScore": 88
+    }
+  },
+  {
+    "id": "amjad-masad",
+    "name": "Amjad Masad",
+    "title": "Co-founder & CEO of Replit",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/amasad",
+    "instagramUrl": "https://www.instagram.com/amasad",
+    "bio": "Jordanian-born software artisan, creator of Replit bringing software creation to the next billion people, philosophical explorer of AI-augmented humanity.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Co-founder & CEO at Replit | Ex-Facebook, Ex-Codecademy",
+        "summary": "Empowering humanity to build software directly from browsers and phones with autonomous AI agents; deep roots in web infrastructure and compilers.",
+        "skills": [
+          "Compilers",
+          "Web Infrastructure",
+          "AI Code Generation",
+          "Product Engineering",
+          "Venture Strategy"
+        ],
+        "education": "Princess Sumaya University for Technology (Computer Science)"
+      },
+      "instagramData": {
+        "bio": "Making software creation accessible to all @replit. Coffee, reading, philosophy & family.",
+        "postsSummary": "Candid photos with his wife and kids, vintage books on philosophy and computing, espresso brewing setups, hackathons.",
+        "tags": [
+          "#replit",
+          "#coding",
+          "#philosophy",
+          "#espresso",
+          "#family"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Grounded domestic warmth, loyalty through high-stakes engineering milestones, and intellectual partnership rooted in timeless values.",
+        "intellectual": "Compilers, hacker history, classical political philosophy, AI developer agents, and Middle Eastern culture.",
+        "lifestyle": "Intense focused product sprints in San Francisco, weekend family strolls, espresso rituals, and quiet library hours.",
+        "partnerPace": "Patient, deeply loyal, philosophical; values substance over Silicon Valley hype."
+      },
+      "hobbies": [
+        "Espresso Crafting",
+        "Reading Ancient History & Philosophy",
+        "Retro Computing Architecture",
+        "Walking in Nature"
+      ],
+      "interests": [
+        "Democratizing Software",
+        "AI Pair Programming",
+        "Hacker Culture Roots",
+        "Cognitive Tools"
+      ],
+      "qualities": {
+        "traits": [
+          "Determined",
+          "Philosophical",
+          "Supportive",
+          "Technically Brilliant",
+          "Humble"
+        ],
+        "communicationStyle": "Direct, thoughtful, measured, infused with classical historical references.",
+        "values": [
+          "Empowerment through building",
+          "Family loyalty",
+          "Intellectual depth",
+          "Self-reliance"
+        ],
+        "energyType": "Deep Introvert with strong leadership presence",
+        "quirks": "Tests Replit on slow 3G cellular phones to make sure a teenager in Amman can code without lag."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Values family and deep loyalty",
+          "Philosophically open",
+          "Appreciates quiet evening conversations",
+          "Authentic"
+        ],
+        "dealbreakers": [
+          "Fickleness",
+          "Superficial tech hype obsession",
+          "Disloyalty",
+          "Pretentiousness"
+        ],
+        "loveLanguage": "Acts of Service & Quality Time"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Julie Zhuo",
+      "topScore": 90
+    }
+  },
+  {
+    "id": "alexis-ohanian",
+    "name": "Alexis Ohanian",
+    "title": "Founder of Seven Seven Six | Co-founder of Reddit",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/alexisohanian",
+    "instagramUrl": "https://www.instagram.com/alexisohanian",
+    "bio": "Venture capitalist, advocate for paid paternity leave, sports team owner (Angel City FC), pancake artist, and proud husband to Serena Williams.",
+    "sources": {
+      "linkedinData": {
+        "headline": "General Partner at Seven Seven Six | Co-Founder of Reddit | Investor",
+        "summary": "Backing founders building a better future across climate, women's sports, space, and crypto; author of Without Their Permission.",
+        "skills": [
+          "Venture Capital",
+          "Brand Strategy",
+          "Community Architecture",
+          "Sports Ownership",
+          "Philanthropy"
+        ],
+        "education": "University of Virginia (B.A. in History & Commerce)"
+      },
+      "instagramData": {
+        "bio": "Business Dad. Founder @sevensevensix. Husband to @serenawilliams. Olympia & Adira's papa. Pancake artist.",
+        "postsSummary": "Colorful pancake portraits cooked on Sunday mornings, courtside cheering for women's sports, trading card collecting, family travel.",
+        "tags": [
+          "#businessdad",
+          "#pancakeart",
+          "#family",
+          "#angelcityfc",
+          "#sevensevensix"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Unconditional support, celebrating a partner's extraordinary achievements with zero ego, and deep joy in parenting.",
+        "intellectual": "The business of women's sports, early-stage technology investing, collectible trading cards, and community governance.",
+        "lifestyle": "Balancing global sports travel with sacred morning pancake breakfasts for his daughters; hands-on parenting alongside big business.",
+        "partnerPace": "Enthusiastic, emotionally expressive, fiercely supportive cheerleader energy."
+      },
+      "hobbies": [
+        "Intricate Pancake Batter Art",
+        "Vintage Sports Card Collecting",
+        "Soccer & Tennis Matches",
+        "Gaming & Waffle Making"
+      ],
+      "interests": [
+        "Women's Sports Equity",
+        "Venture Investing",
+        "Online Communities",
+        "Family Health"
+      ],
+      "qualities": {
+        "traits": [
+          "Supportive",
+          "Visionary",
+          "Expressive",
+          "Generous",
+          "Playful"
+        ],
+        "communicationStyle": "Booming, enthusiastic, warm, brimming with encouragement and storytelling.",
+        "values": [
+          "Family legacy",
+          "Equal opportunity in sports",
+          "Paternal presence",
+          "Kindness"
+        ],
+        "energyType": "Generous Extrovert",
+        "quirks": "Makes photorealistic Disney character pancakes using squeeze bottles; wears custom sneakers honoring his wife and daughters."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Fiercely ambitious",
+          "Values family and parenting",
+          "Enjoys playful silliness",
+          "Emotionally mature"
+        ],
+        "dealbreakers": [
+          "Insecurity in a partner's success",
+          "Apathy towards children",
+          "Cynicism"
+        ],
+        "loveLanguage": "Words of Affirmation & Acts of Service"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Sara Blakely",
+      "topScore": 91
+    }
+  },
+  {
+    "id": "guillermo-rauch",
+    "name": "Guillermo Rauch",
+    "title": "CEO & Founder of Vercel | Creator of Next.js",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/rauchg",
+    "instagramUrl": "https://www.instagram.com/rauchg",
+    "bio": "Argentine software pioneer who shaped the modern web with Socket.io, Mongoose, and Vercel/Next.js; obsessed with speed, design elegance, and developer velocity.",
+    "sources": {
+      "linkedinData": {
+        "headline": "CEO and Founder at Vercel | Creator of Next.js",
+        "summary": "Making the Web faster and empowering developers to build the AI-first web; author of Smashing Node.js and international speaker.",
+        "skills": [
+          "Web Architecture",
+          "Frontend Systems",
+          "Serverless Infrastructure",
+          "Product Design",
+          "Leadership"
+        ],
+        "education": "Self-taught software engineer and open-source creator from Buenos Aires"
+      },
+      "instagramData": {
+        "bio": "Making the web faster @vercel. Buenos Aires -> San Francisco. AI, speed, typography & design.",
+        "postsSummary": "Minimalist black and white design aesthetic, Next.js Conf stage moments, typography books, espresso in Bay Area cafes.",
+        "tags": [
+          "#vercel",
+          "#nextjs",
+          "#typography",
+          "#design",
+          "#speed"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Appreciation for relentless excellence, sleek aesthetic harmony, and mutual respect for craft and dedication.",
+        "intellectual": "Frontend rendering pipelines, edge compute latency, modern typography, Argentine tango music, and AI interface paradigms.",
+        "lifestyle": "Sleek, refined, fast-paced: visits to top design hubs, high-tempo product releases, immaculate dark-mode workspaces.",
+        "partnerPace": "Quick-witted, elegant, focused; communicates with crisp clarity and appreciates high standards."
+      },
+      "hobbies": [
+        "Swiss Graphic Design & Typography",
+        "Espresso Brewing Science",
+        "Classical & Argentine Music",
+        "Reading Architecture Monoliths"
+      ],
+      "interests": [
+        "Sub-millisecond Web Performance",
+        "Generative UI Interfaces",
+        "Edge Computing",
+        "Minimalist Living"
+      ],
+      "qualities": {
+        "traits": [
+          "Visionary",
+          "Impeccably Tasteful",
+          "Decisive",
+          "Polished",
+          "Fast-Paced"
+        ],
+        "communicationStyle": "Precise, elegant, passionate about speed and aesthetic purity.",
+        "values": [
+          "Performance is user experience",
+          "Simplicity",
+          "Relentless shipping",
+          "Excellence"
+        ],
+        "energyType": "High-Focus Ambivert",
+        "quirks": "Measures web page latency in single milliseconds; refuses to use apps with noticeable layout shift."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Has high taste and discernment",
+          "Passionate about their profession",
+          "Values clean aesthetics",
+          "Emotionally mature"
+        ],
+        "dealbreakers": [
+          "Sluggishness",
+          "Messy chaos",
+          "Lack of taste",
+          "Apathy towards design"
+        ],
+        "loveLanguage": "Acts of Service & Aesthetic Surprises"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Julie Zhuo",
+      "topScore": 93
+    }
+  },
+  {
+    "id": "julie-zhuo",
+    "name": "Julie Zhuo",
+    "title": "Co-founder of Sundial | Ex-VP of Product Design at Meta | Best-Selling Author",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/julie-zhuo",
+    "instagramUrl": "https://www.instagram.com/joulee",
+    "bio": "Product design luminary, author of The Making of a Manager, watercolor artist, and founder building data intelligence systems with human warmth.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Co-Founder at Sundial | Author of 'The Making of a Manager' | Former VP Design at Facebook",
+        "summary": "Led design teams shaping products used by billions; writes widely on leadership, product strategy, and creative discernment.",
+        "skills": [
+          "Product Design",
+          "User Experience",
+          "Executive Leadership",
+          "Data Visualization",
+          "Creative Writing"
+        ],
+        "education": "Stanford University (B.S. in Computer Science)"
+      },
+      "instagramData": {
+        "bio": "Designer, founder @sundialdata, author of The Making of a Manager. Watercolor sketches, mom life, thoughts on human nature.",
+        "postsSummary": "Delicate watercolor flower sketches, thoughtful illustrated book excerpts, children's museum visits, product intuition notes.",
+        "tags": [
+          "#design",
+          "#watercolor",
+          "#leadership",
+          "#author",
+          "#motherhood"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "High emotional sensitivity, empathy, thoughtful reflections on life's subtle beauty, and mutual creative encouragement.",
+        "intellectual": "The intersection of human emotions and quantitative data, design systems, cognitive biases, and literature.",
+        "lifestyle": "Calm, artistic balance: sketching with watercolors on weekends, mentoring budding leaders, cozy reading corners with tea.",
+        "partnerPace": "Reflective, warm, deeply perceptive; connects through nuanced conversation and shared aesthetic wonder."
+      },
+      "hobbies": [
+        "Watercolor Painting & Illustration",
+        "Writing Reflective Essays",
+        "Museum & Gallery Walks",
+        "Herbal Tea Blending"
+      ],
+      "interests": [
+        "Human-Computer Intuition",
+        "Cognitive Psychology",
+        "Leadership Empathy",
+        "Art History"
+      ],
+      "qualities": {
+        "traits": [
+          "Empathetic",
+          "Perceptive",
+          "Articulate",
+          "Gentle",
+          "Strategic"
+        ],
+        "communicationStyle": "Warm, measured, deeply thoughtful, with a remarkable gift for emotional metaphors.",
+        "values": [
+          "Empathy as a superpower",
+          "Clarity in thinking",
+          "Humility",
+          "Creative authenticity"
+        ],
+        "energyType": "Mindful Introvert",
+        "quirks": "Draws hand-sketched 2x2 matrix diagrams when making personal life choices; carries watercolor brushes in her everyday tote."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "High EQ and kindness",
+          "Appreciates art and design",
+          "Values family and deep conversation",
+          "Supportive listener"
+        ],
+        "dealbreakers": [
+          "Ego-driven posturing",
+          "Emotional coldness",
+          "Brutish communication",
+          "Lack of reflection"
+        ],
+        "loveLanguage": "Words of Affirmation & Quality Time"
+      }
+    },
+    "stats": {
+      "datesCompleted": 6,
+      "topMatch": "Guillermo Rauch",
+      "topScore": 93
+    }
+  },
+  {
+    "id": "dan-abramov",
+    "name": "Dan Abramov",
+    "title": "Software Engineer at Bluesky | Co-creator of Redux & React Core",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/dan-abramov",
+    "instagramUrl": "https://www.instagram.com/dan_abramov",
+    "bio": "Open-source philosopher, creator of Redux, educator who demystified mental models of JavaScript, building decentralized social protocols at Bluesky.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Software Engineer at Bluesky | Former React Core at Meta | Creator of Redux",
+        "summary": "Pioneered state management in JavaScript, shaped React Hooks and Server Components; passionate about mental models and distributed networks.",
+        "skills": [
+          "JavaScript",
+          "React.js",
+          "State Management",
+          "Decentralized Protocols",
+          "Technical Writing"
+        ],
+        "education": "Self-taught software engineer (Russian National University background)"
+      },
+      "instagramData": {
+        "bio": "Writing code & thoughts. Bluesky, React, Overreacted. London life, coffee, synthesizers.",
+        "postsSummary": "London foggy morning walks, keyboard switch modding, minimalist coffee shops, reflections on online communication.",
+        "tags": [
+          "#london",
+          "#coffee",
+          "#bluesky",
+          "#coding",
+          "#overreacted"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Psychological safety to explore doubts and admit not knowing, freedom from societal pretenses, and authentic intimacy.",
+        "intellectual": "Epistemology, how humans conceptualize mental models, language design, distributed consensus, and music synthesis.",
+        "lifestyle": "Quiet London strolls, rainy afternoon coding in cozy indie coffee shops, reading philosophy blogs, tinkering with mechanical keyboards.",
+        "partnerPace": "Patient, thoughtful, gently witty; communicates with deep sincerity and zero corporate polish."
+      },
+      "hobbies": [
+        "Custom Mechanical Keyboard Building",
+        "Indie Coffee Brewing",
+        "Ambient Synth Exploration",
+        "Blogging on Overreacted"
+      ],
+      "interests": [
+        "Mental Models of Computing",
+        "Decentralized Protocols",
+        "Philosophy of Language",
+        "Internet Sociology"
+      ],
+      "qualities": {
+        "traits": [
+          "Honest",
+          "Self-Questioning",
+          "Intellectually Sincere",
+          "Gentle",
+          "Deeply Curious"
+        ],
+        "communicationStyle": "Thoughtful, candid, disarming with honesty about his own limitations.",
+        "values": [
+          "Intellectual honesty",
+          "Clear mental models",
+          "Decentralization",
+          "Empathy"
+        ],
+        "energyType": "Introspective Introvert",
+        "quirks": "Wrote a world-famous blog post listing 'Things I Don't Know' to prove expertise is largely a myth."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Intellectually honest",
+          "Enjoys quiet companionable silence",
+          "Emotionally genuine",
+          "Values depth over status"
+        ],
+        "dealbreakers": [
+          "Showboating",
+          "Intellectual arrogance",
+          "Aggressive social climbing",
+          "Loud conflict"
+        ],
+        "loveLanguage": "Quality Time & Words of Affirmation"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Cassidy Williams",
+      "topScore": 90
+    }
+  },
+  {
+    "id": "jack-altman",
+    "name": "Jack Altman",
+    "title": "Co-founder & Executive Chairman of Lattice | General Partner at Alt Capital",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/jackaltman",
+    "instagramUrl": "https://www.instagram.com/jackaltman",
+    "bio": "People-first leader, builder of Lattice, author of People Strategy, dedicated father, and investor fascinated by organizational health and human motivation.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Co-founder & Executive Chairman at Lattice | Founder & Managing Partner at Alt Capital",
+        "summary": "Built Lattice into a multi-billion-dollar HR tech platform helping thousands of companies build meaningful workplaces.",
+        "skills": [
+          "People Strategy",
+          "SaaS Scaling",
+          "Venture Capital",
+          "Organizational Psychology",
+          "Executive Leadership"
+        ],
+        "education": "Princeton University (B.A. in Economics)"
+      },
+      "instagramData": {
+        "bio": "Alt Capital, Lattice. Dad of two. Thinking about startups, people & life.",
+        "postsSummary": "Playground Saturdays with his toddler, golf courses at twilight, snapshots from startup founder dinners, running shoes.",
+        "tags": [
+          "#lattice",
+          "#familyfirst",
+          "#startups",
+          "#golf",
+          "#leadership"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Solid, grounded trust, open emotional dialogue, and a partnership built around shared family goals and mutual kindness.",
+        "intellectual": "Organizational dynamics, how great teams bond, parenting wisdom, investment heuristics, and behavioral psychology.",
+        "lifestyle": "Balanced family life: home dinners with his children, weekend golf rounds, early morning runs, thoughtful angel investments.",
+        "partnerPace": "Steady, emotionally mature, clear-minded, and deeply supportive."
+      },
+      "hobbies": [
+        "Golf",
+        "Morning Jogging",
+        "Parenting Coaching",
+        "Reading Management Biographies"
+      ],
+      "interests": [
+        "Organizational Health",
+        "Human Motivation",
+        "Early-Stage Founders",
+        "Economics"
+      ],
+      "qualities": {
+        "traits": [
+          "Emotionally Grounded",
+          "Wise",
+          "Supportive",
+          "Pragmatic",
+          "Calm"
+        ],
+        "communicationStyle": "Even-toned, thoughtful, active listener who makes others feel truly heard.",
+        "values": [
+          "People matter most",
+          "Long-term relationships",
+          "Integrity",
+          "Family dedication"
+        ],
+        "energyType": "Balanced Ambivert",
+        "quirks": "Analyzes interpersonal feedback mechanisms during casual dinner conversations."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Kind and grounded",
+          "Values family and children",
+          "Emotionally articulate",
+          "Enjoys outdoor sports"
+        ],
+        "dealbreakers": [
+          "Selfishness",
+          "Unpredictable volatility",
+          "Disrespect for others' time",
+          "Greed"
+        ],
+        "loveLanguage": "Acts of Service & Quality Time"
+      }
+    },
+    "stats": {
+      "datesCompleted": 4,
+      "topMatch": "Natalie Barbu",
+      "topScore": 87
+    }
+  },
+  {
+    "id": "tim-ferriss",
+    "name": "Tim Ferriss",
+    "title": "Author of The 4-Hour Workweek | Host of The Tim Ferriss Show",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/timferriss",
+    "instagramUrl": "https://www.instagram.com/timferriss",
+    "bio": "Human guinea pig, 5x #1 NYT best-selling author, angel investor in Uber/Twitter, dedicated dog dad to Molly, and explorer of somatic healing, Stoicism, and nature.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Author of The 4-Hour Workweek | Early-Stage Tech Investor | Host of The Tim Ferriss Show",
+        "summary": "1B+ podcast downloads deconstructing world-class performers; major benefactor of scientific research into psychedelic medicine and neurobiology.",
+        "skills": [
+          "Accelerated Learning",
+          "Angel Investing",
+          "Behavioral Design",
+          "Neuroscience Philanthropy",
+          "Writing"
+        ],
+        "education": "Princeton University (East Asian Studies)"
+      },
+      "instagramData": {
+        "bio": "Human guinea pig. 5x #1 NYT bestsellers. Podcast host. Molly’s dog dad. Books, tea, nature, archery.",
+        "postsSummary": "Japanese tea ceremonies, target archery practice, hiking in the Austin hills with his dog Molly, rare vintage books, longevity science.",
+        "tags": [
+          "#timferriss",
+          "#tea",
+          "#archery",
+          "#dogdad",
+          "#stoicism"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "High somatic awareness, quiet non-judgmental presence, shared sanctuary in nature, and emotional maturity to navigate life's complexities.",
+        "intellectual": "Deconstructing world-class skills, neuroplasticity, psycho-somatic health, Stoic wisdom, and Japanese aesthetics (wabi-sabi).",
+        "lifestyle": "Deliberately paced: silent mornings drinking Gyokuro green tea, afternoon dog walks in the woods, structured exercise, digital sabbaticals.",
+        "partnerPace": "Deeply reflective, grounded, patient; values quiet connection over noisy social scenes."
+      },
+      "hobbies": [
+        "Traditional Japanese Tea Ceremonies",
+        "Archery & Target Practice",
+        "Wilderness Hiking with his dog Molly",
+        "Accelerated Language Learning"
+      ],
+      "interests": [
+        "Neuroscience & Psychedelic Medicine",
+        "Stoic & Eastern Philosophy",
+        "Wabi-Sabi Aesthetics",
+        "Metabolic Longevity"
+      ],
+      "qualities": {
+        "traits": [
+          "Methodical",
+          "Deeply Empathetic",
+          "Disciplined",
+          "Introspective",
+          "Gentle"
+        ],
+        "communicationStyle": "Deep, resonant, probing questions; listens with complete, undivided attention.",
+        "values": [
+          "Self-experimentation",
+          "Truth & mental health",
+          "Deep friendship",
+          "Animal welfare"
+        ],
+        "energyType": "Deep Introvert with high conversational intimacy",
+        "quirks": "Takes notes with vintage Japanese fountain pens; weighs his loose leaf tea on a jeweler's micro-scale."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Emotionally self-aware",
+          "Loves animals and nature",
+          "Values peaceful solitude",
+          "Intellectually curious"
+        ],
+        "dealbreakers": [
+          "Superficial social clout chasing",
+          "High reactivity",
+          "Cruelty to animals",
+          "Constant digital addiction"
+        ],
+        "loveLanguage": "Physical Touch & Quality Presence"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Cleo Abram",
+      "topScore": 89
+    }
+  },
+  {
+    "id": "cassidy-williams",
+    "name": "Cassidy Williams",
+    "title": "Head of Developer Experience at Contenda | Mechanical Keyboard Enthusiast",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/cassidoo",
+    "instagramUrl": "https://www.instagram.com/cassidoo",
+    "bio": "Beloved developer advocate, comedy sketch creator, mechanical keyboard collector, karaoke queen, and teacher making coding welcoming and hilarious for everyone.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Head of Developer Experience & Education at Contenda | Keynote Speaker | Tech Advisor",
+        "summary": "Spent a decade making developer tools fun and accessible at Netlify, Remote, and Contenda; renowned tech newsletter curator at cassidoo.co.",
+        "skills": [
+          "Developer Advocacy",
+          "JavaScript/TypeScript",
+          "Community Building",
+          "Public Speaking",
+          "Technical Humor"
+        ],
+        "education": "Iowa State University (B.S. in Computer Science)"
+      },
+      "instagramData": {
+        "bio": "Dev advocate, mechanical keyboard collector, comedy video maker, pun enthusiast, mom, karaoke star.",
+        "postsSummary": "Pastel mechanical keyboard sound tests, hilarious tech skits about CSS bugs, family board game nights, retro 90s gaming rigs.",
+        "tags": [
+          "#mechanicalkeyboard",
+          "#devhumor",
+          "#cassidoo",
+          "#karaoke",
+          "#codinglife"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "High laughter quotient, mutual goofy playfulness, genuine emotional safety to be a huge nerd, and deep family loyalty.",
+        "intellectual": "Creative coding puzzles, mechanical switch actuation mechanics, meme semiotics, retro web preservation, and indie dev tools.",
+        "lifestyle": "Colorful, high-energy home studio: clicky keyboards humming, laughter with family, weekly newsletter curating, singing show tunes.",
+        "partnerPace": "Upbeat, expressive, quick-witted; communicates with puns, memes, and warm hugs."
+      },
+      "hobbies": [
+        "Custom Mechanical Keyboard Building",
+        "Musical Theatre Karaoke",
+        "Sketch Comedy Video Editing",
+        "Board Games (Catan/Wingspan)"
+      ],
+      "interests": [
+        "Developer Community Empathy",
+        "Retro Web Nostalgia",
+        "Sound Design & Keyboard Acoustics",
+        "Creative Writing"
+      ],
+      "qualities": {
+        "traits": [
+          "Hilarious",
+          "Approachable",
+          "Energetic",
+          "Generous",
+          "Unapologetically Nerdy"
+        ],
+        "communicationStyle": "Fast, witty, pun-filled, warm and welcoming.",
+        "values": [
+          "Inclusivity",
+          "Laughter as therapy",
+          "Craftsmanship in code",
+          "Family joy"
+        ],
+        "energyType": "Enthusiastic Extrovert with cozy nerdy roots",
+        "quirks": "Owns over 70 custom mechanical keyboards; can identify keyboard switch types purely by the sound of typing blindfolded."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Quick sense of humor",
+          "Doesn't take themselves too seriously",
+          "Loves music or gaming",
+          "Supportive and kind"
+        ],
+        "dealbreakers": [
+          "Elitism or gatekeeping",
+          "Lack of humor",
+          "Pretentious seriousness",
+          "Mean-spirited sarcasm"
+        ],
+        "loveLanguage": "Quality Time & Words of Affirmation"
+      }
+    },
+    "stats": {
+      "datesCompleted": 6,
+      "topMatch": "Dan Abramov",
+      "topScore": 90
+    }
+  },
+  {
+    "id": "ali-spagnola",
+    "name": "Ali Spagnola",
+    "title": "Musician, Performance Artist & Fitness Creator",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/alispagnola",
+    "instagramUrl": "https://www.instagram.com/alispagnola",
+    "bio": "Energetic creator, musician, painter who did 1 painting a day for 14 years, extreme fitness challenger, and party-game inventor spreading pure dopamine.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Artist, Musician & Founder at Ali Spagnola LLC | Content Creator & Speaker",
+        "summary": "Bridging music, interactive digital performance, fine art commissions, and high-energy athletic stunts for millions of followers.",
+        "skills": [
+          "Music Production",
+          "Oil Painting",
+          "Video Content Creation",
+          "Fitness Challenge Design",
+          "Performance Art"
+        ],
+        "education": "Carnegie Mellon University (B.F.A. in Art & Music Technology)"
+      },
+      "instagramData": {
+        "bio": "Making you smile with music, art, fitness & yellow! 💛 1 painting a day. Power Hour album.",
+        "postsSummary": "Bright yellow outfits, insane obstacle course fitness stunts, comedic original song parodies, giant canvas oil paintings.",
+        "tags": [
+          "#yellow",
+          "#fitnesschallenge",
+          "#painting",
+          "#musician",
+          "#goodvibes"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "High-octane excitement, boundless positive encouragement, a partner who joins in ridiculous creative adventures without hesitation.",
+        "intellectual": "Music theory, viral content pacing, color psychology, athletic biomechanics, and interactive audience psychology.",
+        "lifestyle": "Vibrant, sun-drenched, active: morning intense workouts, afternoon painting or guitar recording, evening social games.",
+        "partnerPace": "Spontaneous, ultra-energetic, playful; thrives on movement and outdoor challenges."
+      },
+      "hobbies": [
+        "Oil & Acrylic Canvas Painting",
+        "Songwriting & Keytar Playing",
+        "CrossFit & Obstacle Courses",
+        "Board Game Invention"
+      ],
+      "interests": [
+        "Visual Color Theory (Yellow Obsession)",
+        "Music Production",
+        "Athletic Endurance",
+        "Interactive Art"
+      ],
+      "qualities": {
+        "traits": [
+          "Exuberant",
+          "Relentlessly Athletic",
+          "Creative",
+          "Spontaneous",
+          "Warm"
+        ],
+        "communicationStyle": "Dynamic, vibrant, expressive, always accompanied by radiant smiles and musical cadence.",
+        "values": [
+          "Spreading joy",
+          "Creative persistence",
+          "Physical vitality",
+          "Unapologetic individuality"
+        ],
+        "energyType": "Maximum-Output Extrovert",
+        "quirks": "Wears bright yellow in 95% of her outfits; painted a brand new 12x12 canvas every single day for over a decade."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Highly active and fit",
+          "Loves goofy humor and singing",
+          "High energy match",
+          "Open-minded adventurer"
+        ],
+        "dealbreakers": [
+          "Couch potato mentality",
+          "Chronic negativity",
+          "Jealousy of public creativity"
+        ],
+        "loveLanguage": "Physical Touch & Shared Adventures"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Jack Conte",
+      "topScore": 92
+    }
+  },
+  {
+    "id": "jack-conte",
+    "name": "Jack Conte",
+    "title": "Co-founder & CEO of Patreon | Musician in Pomplamoose & Scary Pockets",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/jack-conte",
+    "instagramUrl": "https://www.instagram.com/jackconte",
+    "bio": "Fierce champion of the creative class, multi-instrumentalist, funk bandleader, and Patreon founder who channeled artistic hustle into funding artists worldwide.",
+    "sources": {
+      "linkedinData": {
+        "headline": "CEO and Co-founder at Patreon | Musician | Keynote Speaker",
+        "summary": "Founded Patreon to solve the compensation crisis for independent artists; paid over $3.5B to creators globally; bandleader of Pomplamoose and Scary Pockets.",
+        "skills": [
+          "Creative Direction",
+          "Music Production",
+          "Company Leadership",
+          "Keynote Performance",
+          "Creator Economy"
+        ],
+        "education": "Stanford University (B.A. in Music & Composition)"
+      },
+      "instagramData": {
+        "bio": "Musician. CEO @patreon. Bandleader @scarypockets @pomplamoosemusic. Obsessed with creative momentum.",
+        "postsSummary": "Frenzied analog synthesizer jams, funk rehearsals in vintage studios, raw reflections on artist independence, warehouse workshop building.",
+        "tags": [
+          "#patreon",
+          "#scarypockets",
+          "#funk",
+          "#creatoreconomy",
+          "#synthesizer"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Intense passionate alignment, mutual artistic reverence, vulnerability during creative blocks, and deep soul connection.",
+        "intellectual": "Music harmony and funk rhythm, economic incentives for creators, mechanical studio automation, and artistic psychology.",
+        "lifestyle": "Passionate creative fever: late night synth recording sessions, warehouse workshops with animatronic organs, travel between recording studios.",
+        "partnerPace": "Fierce, expressive, deeply romantic; loves pouring heart and soul into shared musical and visual projects."
+      },
+      "hobbies": [
+        "Vintage Analog Synth Repair",
+        "Funk Bass & Rhodes Piano",
+        "Building Kinetic Studio Props",
+        "Audio Mixing & Mastering"
+      ],
+      "interests": [
+        "Creator Independence Economics",
+        "Somatic Creativity",
+        "Film Scoring",
+        "Vintage Audio Engineering"
+      ],
+      "qualities": {
+        "traits": [
+          "Passionate",
+          "Intense",
+          "Visionary",
+          "Emotionally Transparent",
+          "Electrifying"
+        ],
+        "communicationStyle": "Dramatic, intensely heartfelt, enthusiastic, gestures with expressive hands.",
+        "values": [
+          "Artistic dignity",
+          "Creative momentum",
+          "Honesty over polish",
+          "Loyalty"
+        ],
+        "energyType": "Artistic Lightning Rod (High-energy Ambivert)",
+        "quirks": "Gets so excited about a bassline that he jumps onto furniture; spent three months building a robotic foam robot for a music video."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Deeply creative or musical",
+          "Embraces intensity and raw emotion",
+          "Understands obsessive project sprints",
+          "Loyal and open"
+        ],
+        "dealbreakers": [
+          "Apathy towards art",
+          "Corporate cynicism",
+          "Cold emotional detachment"
+        ],
+        "loveLanguage": "Words of Affirmation & Shared Creative Flow"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Ali Spagnola",
+      "topScore": 92
+    }
+  },
+  {
+    "id": "natalie-barbu",
+    "name": "Natalie Barbu",
+    "title": "Co-founder & CEO of Rella | Content Creator & Podcast Host",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/nataliebarbu",
+    "instagramUrl": "https://www.instagram.com/nataliebarbu",
+    "bio": "Engineer turned creator and tech founder, building Rella to organize the creator economy; champion of modern work-life integration, travel, and founder grit.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Co-Founder & CEO at Rella | Creator | Host of The Real Reel Podcast",
+        "summary": "Bridged industrial engineering with digital creation; raised venture capital to build productivity software tailored for creator businesses.",
+        "skills": [
+          "SaaS Product Management",
+          "Industrial Engineering",
+          "Creator Monetization",
+          "Podcast Hosting",
+          "Venture Fundraising"
+        ],
+        "education": "North Carolina State University (B.S. in Industrial and Systems Engineering)"
+      },
+      "instagramData": {
+        "bio": "Founder & CEO @getrella. Engineer. Podcast @therealreelpod. Miami & NYC.",
+        "postsSummary": "Miami sunny lifestyle, founder workspace aesthetics, coffee chats with female founders, travel snapshots in Greece, weekend wellness.",
+        "tags": [
+          "#rella",
+          "#femalefounder",
+          "#miami",
+          "#engineering",
+          "#entrepreneur"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Mutual ambition without competition, emotional reliability, fun weekend escapes, and a partner who celebrates personal milestones.",
+        "intellectual": "Systems optimization, modern digital marketing, startup fundraising mechanics, and travel culture.",
+        "lifestyle": "Chic, organized, sunny: morning Pilates, focused CEO work blocks, networking dinners in Miami and NYC, weekend beach strolls.",
+        "partnerPace": "Ambitious, stylish, attentive; balances career drive with leisure and laughter."
+      },
+      "hobbies": [
+        "Pilates & Strength Training",
+        "Interior Design Moodboards",
+        "Podcast Interviewing",
+        "Mediterranean Travel"
+      ],
+      "interests": [
+        "Creator Economy Infrastructure",
+        "Industrial Engineering Optimization",
+        "Wellness & Skincare Science",
+        "Angel Investing"
+      ],
+      "qualities": {
+        "traits": [
+          "Driven",
+          "Organized",
+          "Relatable",
+          "Warm",
+          "Self-Possessed"
+        ],
+        "communicationStyle": "Articulate, friendly, authentic, effortlessly balancing professional and personal candor.",
+        "values": [
+          "Work-life alignment",
+          "Female leadership",
+          "Honesty",
+          "Consistency"
+        ],
+        "energyType": "Charming Extrovert",
+        "quirks": "Color-codes her calendar down to 15-minute segments; tests workflow productivity tools like others test restaurants."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Ambitious and disciplined",
+          "Enjoys travel and social outings",
+          "Emotionally supportive",
+          "Great conversationalist"
+        ],
+        "dealbreakers": [
+          "Lack of drive",
+          "Insecurity around ambitious partners",
+          "Messy disorganization"
+        ],
+        "loveLanguage": "Quality Time & Receiving Gifts"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Alex Lieberman",
+      "topScore": 91
+    }
+  },
+  {
+    "id": "austin-evans",
+    "name": "Austin Evans",
+    "title": "Tech Host & Video Producer | Mystery Tech Explorer",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/austin-evans",
+    "instagramUrl": "https://www.instagram.com/austinnotduncan",
+    "bio": "Beloved tech reviewer famous for Mystery Tech, retro gaming restorations, and infectious optimism who rebuilt his entire career from ashes after a tragic house fire.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Lead Video Producer & Host at Austin Evans Productions",
+        "summary": "15+ years creating high-energy consumer electronics, gaming PC build battles, and weird tech explorations with millions of global fans.",
+        "skills": [
+          "Consumer Tech Reviews",
+          "Studio Production",
+          "PC Building",
+          "YouTube Strategy",
+          "Creative Direction"
+        ],
+        "education": "Self-taught video director and hardware specialist"
+      },
+      "instagramData": {
+        "bio": "This is Austin. Making videos about cool and weird tech. Retro games, PC builds & fun.",
+        "postsSummary": "Weird Japanese gadget unboxings, custom liquid-cooled PC builds, smiling studio shots with brother Ken, classic gaming consoles.",
+        "tags": [
+          "#mysterytech",
+          "#austinevans",
+          "#pcbuild",
+          "#retrogaming",
+          "#tech"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Warm, sunny, loyal companionship, genuine appreciation for playful silliness, and quiet reassurance through life's ups and downs.",
+        "intellectual": "Gaming hardware architecture, bizarre retro electronics, video production pacing, and mechanical modifications.",
+        "lifestyle": "Playful, energetic studio days: testing strange gadgets from Amazon, gaming battles with friends, cozy home evenings with movies.",
+        "partnerPace": "Sweet, kind-hearted, enthusiastic; loves sharing laughs and funny internet discoveries."
+      },
+      "hobbies": [
+        "Retro Nintendo Console Restoration",
+        "Custom Liquid-Cooled PC Builds",
+        "Collecting Bizarre Japanese Gadgets",
+        "Cinema & Popcorn Nights"
+      ],
+      "interests": [
+        "Gaming Hardware Evolution",
+        "Consumer Tech Nostalgia",
+        "Video Production Lighting",
+        "Automotive Tech"
+      ],
+      "qualities": {
+        "traits": [
+          "Infectiously Enthusiastic",
+          "Resilient",
+          "Sweet-Natured",
+          "Humble",
+          "Playful"
+        ],
+        "communicationStyle": "Energetic, expressive, marked by his iconic cheerful greeting and big laughs.",
+        "values": [
+          "Resilience in adversity",
+          "Joy of curiosity",
+          "Loyalty to family and team",
+          "Kindness"
+        ],
+        "energyType": "Sunny Extrovert",
+        "quirks": "Opens mystery packages with extreme dramatic anticipation; cannot resist buying transparent retro electronic shells."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Shares a love for games or tech",
+          "Warm and kind-hearted",
+          "Enjoys playful silliness",
+          "Emotionally supportive"
+        ],
+        "dealbreakers": [
+          "Cynical killjoys",
+          "Snobbish superiority",
+          "Mean teasing",
+          "Cold indifference"
+        ],
+        "loveLanguage": "Words of Affirmation & Quality Time"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Justine Ezarik",
+      "topScore": 94
+    }
+  },
+  {
+    "id": "sara-dietschy",
+    "name": "Sara Dietschy",
+    "title": "Creative Technologist, Video Producer & Host of That Creative Life",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/saradietschy",
+    "instagramUrl": "https://www.instagram.com/saradietschy",
+    "bio": "Filmmaker, podcaster, and industrial design enthusiast who bridges the gap between raw creative hustle, tech tools, and authentic lifestyle vlogging.",
+    "sources": {
+      "linkedinData": {
+        "headline": "CEO & Video Producer at Lab22 / That Creative Life | Filmmaker",
+        "summary": "Creator of docu-series and tech lifestyle reviews; founder of Lab22 designing premium everyday desktop and tech accessories.",
+        "skills": [
+          "Cinematography",
+          "Industrial Product Design",
+          "Podcast Production",
+          "Brand Storytelling",
+          "Creative Direction"
+        ],
+        "education": "University of Texas at Arlington"
+      },
+      "instagramData": {
+        "bio": "Filmmaker & Host of @thatcreativelifepod. Founder of @lab22design. Dallas & NYC.",
+        "postsSummary": "Studio lighting redesigns, product sketches for MagSafe stands, Texas road trips, music festival film snaps, espresso shots.",
+        "tags": [
+          "#thatcreativelife",
+          "#lab22",
+          "#filmmaking",
+          "#techsetup",
+          "#creative"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Creative camaraderie, mutual support in entrepreneurial ventures, and a blend of urban hustle with relaxing rustic downtime.",
+        "intellectual": "Industrial materials, camera color science, creator business models, and documentary pacing.",
+        "lifestyle": "Dynamic studio balance: designing physical desk accessories, recording podcast deep dives, traveling for video shoots, relaxing with coffee.",
+        "partnerPace": "Honest, energetic, grounded; loves talking shop while enjoying good food and scenic views."
+      },
+      "hobbies": [
+        "3D CAD Desk Accessory Prototyping",
+        "Film Photography (35mm)",
+        "Specialty Coffee Tasting",
+        "Road Tripping"
+      ],
+      "interests": [
+        "Industrial Design & Materials",
+        "Documentary Storytelling",
+        "Hardware Manufacturing",
+        "Podcast Intimacy"
+      ],
+      "qualities": {
+        "traits": [
+          "Creative Hustler",
+          "Down-to-Earth",
+          "Candid",
+          "Design-Obsessed",
+          "Upbeat"
+        ],
+        "communicationStyle": "Breezy, candid, articulate, infused with practical creative wisdom and humor.",
+        "values": [
+          "Craftsmanship",
+          "Creative persistence",
+          "Authenticity",
+          "Friendship"
+        ],
+        "energyType": "Active Ambivert",
+        "quirks": "Redesigns her entire studio layout every four months to find the optimal lighting angle."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Creative or entrepreneurial",
+          "Appreciates good design and coffee",
+          "Grounded and down to earth",
+          "Enjoys travel"
+        ],
+        "dealbreakers": [
+          "Lack of initiative",
+          "Stiffness",
+          "Superficial status games"
+        ],
+        "loveLanguage": "Quality Time & Acts of Service"
+      }
+    },
+    "stats": {
+      "datesCompleted": 5,
+      "topMatch": "Sahil Bloom",
+      "topScore": 86
+    }
+  },
+  {
+    "id": "cleo-abram",
+    "name": "Cleo Abram",
+    "title": "Video Journalist & Host of Huge If True",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/cleoabram",
+    "instagramUrl": "https://www.instagram.com/cleoabram",
+    "bio": "Independent tech and science journalist, former Vox video host, bringing radical optimism and rigorous inquiry to stories about fusion energy, quantum computing, and AI.",
+    "sources": {
+      "linkedinData": {
+        "headline": "Host & Executive Producer of 'Huge If True' | Former Video Journalist at Vox",
+        "summary": "Creating uplifting, deeply researched science and technology journalism helping millions understand how innovation can solve humanity's greatest challenges.",
+        "skills": [
+          "Science Journalism",
+          "Visual Storytelling",
+          "Investigative Research",
+          "Motion Graphics",
+          "Public Speaking"
+        ],
+        "education": "Columbia University (B.A. in Political Science & Philosophy)"
+      },
+      "instagramData": {
+        "bio": "Host of Huge If True! An optimistic show about technology. Former Vox video journalist. Curiosity & optimism.",
+        "postsSummary": "Inside nuclear fusion reactor chambers, Formula 1 garage tours, motion graphic storyboards, NYC street walks, deep science explainers.",
+        "tags": [
+          "#hugeiftrue",
+          "#optimism",
+          "#science",
+          "#cleoabram",
+          "#futuretech"
+        ]
+      }
+    },
+    "agentAnalysis": {
+      "needs": {
+        "emotional": "Radiant optimism, mutual respect for intellectual curiosity, and deep shared belief in human potential and future progress.",
+        "intellectual": "Clean energy breakthroughs (fusion, geothermal), biotechnology, AI alignment, aerospace engineering, and clear explanatory storytelling.",
+        "lifestyle": "Intrepid, curiosity-fueled: visiting research laboratories across the world, collaborating with scientists, thoughtful NYC evening walks.",
+        "partnerPace": "Curious, thoughtful, inspiring; loves diving into the 'why' and 'how' behind complex phenomena."
+      },
+      "hobbies": [
+        "Visiting Advanced Research Labs",
+        "Formula 1 Racing Analytics",
+        "Urban Architecture Walking Tours",
+        "Reading Hard Sci-Fi"
+      ],
+      "interests": [
+        "Nuclear Fusion & Clean Energy",
+        "Quantum Computing",
+        "Opto-mechanics",
+        "Techno-Optimism Philosophy"
+      ],
+      "qualities": {
+        "traits": [
+          "Radically Optimistic",
+          "Rigorous",
+          "Charismatic",
+          "Inquisitive",
+          "Warm"
+        ],
+        "communicationStyle": "Engaging, crystalline clarity, infectious enthusiasm for complex scientific ideas.",
+        "values": [
+          "Rational optimism",
+          "Intellectual rigor",
+          "Curiosity over cynicism",
+          "Empathy"
+        ],
+        "energyType": "High-Curiosity Ambivert",
+        "quirks": "Gets genuinely giddy when standing next to superconducting magnets; carries a notebook full of physics questions to cocktail parties."
+      },
+      "compatibilityPreferences": {
+        "idealPartnerTraits": [
+          "Intellectually passionate",
+          "Shares an optimistic world view",
+          "Enjoys deep discussions on the future",
+          "Kind and supportive"
+        ],
+        "dealbreakers": [
+          "Cynical doom-scrolling",
+          "Anti-science dogmatism",
+          "Intellectual laziness",
+          "Arrogance"
+        ],
+        "loveLanguage": "Words of Affirmation & Shared Discoveries"
+      }
+    },
+    "stats": {
+      "datesCompleted": 6,
+      "topMatch": "Marques Brownlee",
+      "topScore": 95
+    }
+  }
+]
