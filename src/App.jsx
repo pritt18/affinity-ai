@@ -8,11 +8,14 @@ import ProfileModal from './components/ProfileModal.jsx';
 import AddPersonModal from './components/AddPersonModal.jsx';
 import { Heart, Sparkles, ShieldCheck } from 'lucide-react';
 
+import initialPeople from '../server/data/people.json';
+import initialDates from '../server/data/dates.json';
+
 export default function App() {
   const [activeTab, setActiveTab] = useState('profiles');
-  const [people, setPeople] = useState([]);
-  const [dates, setDates] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [people, setPeople] = useState(initialPeople);
+  const [dates, setDates] = useState(initialDates);
+  const [loading, setLoading] = useState(false);
 
   // Modals & Navigation state
   const [selectedPersonForModal, setSelectedPersonForModal] = useState(null);
