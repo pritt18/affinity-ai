@@ -16,65 +16,65 @@ An autonomous dating platform where individuals are represented by AI agents tha
 
 ---
 
-## Step-by-Step Setup Guide (VS Code)
+## Getting Started
 
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
-- **Node.js**: version `18.0.0` or higher (verified compatible up to Node `v24`)
-  - Check in terminal: `node -v`
-- **npm**: version `9.0.0` or higher
-  - Check in terminal: `npm -v`
-- **VS Code**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Node.js**: version `18.0.0` or higher ([Download Node.js](https://nodejs.org/))
+- **npm**: version `9.0.0` or higher (bundled with Node.js)
+- **Git**: ([Download Git](https://git-scm.com/))
+- **Code Editor**: [Visual Studio Code](https://code.visualstudio.com/) (recommended)
 
 ---
 
-### Step 1: Open the Project in VS Code
+### Step 1: Clone the Repository
 
-1. Launch **Visual Studio Code**.
-2. Click **File > Open Folder...** from the top menu bar.
-3. Select the `affinity-ai` directory:
-   ```
-   E:\SoftspireSolution\affinity-ai
-   ```
-4. Open the integrated terminal in VS Code using the shortcut:
-   - **Windows/Linux**: `Ctrl + \`` (or go to **Terminal > New Terminal**)
+Clone the project repository to your local machine and navigate into the project folder:
+
+```bash
+git clone https://github.com/pritt18/affinity-ai.git
+cd affinity-ai
+```
+
+*(If you are opening an existing local copy, open your terminal inside the project root directory, or open the folder directly in VS Code by typing `code .`)*
 
 ---
 
 ### Step 2: Install Project Dependencies
 
-In the integrated terminal, install all frontend and backend packages:
+Run the following command in the project root to install all backend and frontend packages:
 
-```powershell
+```bash
 npm install
 ```
 
 This installs:
-- Backend: `express`, `cors`, `axios`, `cheerio`, `dotenv`
-- Frontend: `react`, `react-dom`, `vite`, `tailwindcss`, `lucide-react`
-- Tooling: `concurrently`, `postcss`, `autoprefixer`
+- **Backend**: `express`, `cors`, `axios`, `cheerio`, `dotenv`
+- **Frontend**: `react`, `react-dom`, `vite`, `tailwindcss`, `lucide-react`
+- **Tooling**: `concurrently`, `postcss`, `autoprefixer`
 
 ---
 
 ### Step 3: Run the Application
 
-You can start the project using any of the following methods:
+You can start the project using either of the following methods:
 
 #### Method A: 1-Click Launch with VS Code Debugger (Recommended)
-The repository includes a ready-to-use `.vscode/launch.json` file.
-1. Press **`F5`** on your keyboard.
+The repository includes a ready-to-use `.vscode/launch.json` configuration.
+1. Open the project folder in VS Code (`code .`).
+2. Press **`F5`** on your keyboard.
    *(Or click the **Run & Debug** icon on the left sidebar `Ctrl+Shift+D` and click the green play button next to **"Affinity AI - Full Application"**)*.
-2. VS Code will automatically start both the backend server and frontend development server in your terminal.
-3. Open your browser to:
+3. VS Code will automatically start both the backend server and frontend development server in the integrated terminal.
+4. Open your browser and navigate to:
    ```
    http://localhost:5173
    ```
 
 #### Method B: Run via Terminal Command
-In your VS Code terminal, run:
+In your terminal, run:
 
-```powershell
+```bash
 npm run dev
 ```
 
@@ -91,29 +91,34 @@ Open your browser and navigate to **`http://localhost:5173`**.
 To verify the optimized production build served directly from the Express backend:
 
 1. Build the frontend bundle:
-   ```powershell
+   ```bash
    npm run build
    ```
 
 2. Start the unified production server:
-   ```powershell
+   ```bash
    npm start
    ```
 
-3. Open **`http://localhost:5000`** in your browser. The single Express process now serves both the REST API and the compiled static React application.
+3. Open **`http://localhost:5000`** in your browser. The single Express process serves both the REST API and the compiled static React application.
 
 ---
 
-### Troubleshooting Common Issues
+### Troubleshooting
 
 - **Port 5000 Already in Use (`EADDRINUSE`)**:
-  If another process is using port 5000, run this command in PowerShell to free it:
-  ```powershell
-  Get-Process -Id (Get-NetTCPConnection -LocalPort 5000).OwningProcess | Stop-Process -Force
-  ```
+  - **Windows (PowerShell)**:
+    ```powershell
+    Stop-Process -Id (Get-NetTCPConnection -LocalPort 5000).OwningProcess -Force
+    ```
+  - **macOS / Linux**:
+    ```bash
+    kill -9 $(lsof -ti:5000)
+    ```
+  - Alternatively, specify a different port in a `.env` file (e.g. `PORT=5001`).
 - **Dependencies Cache Reset**:
-  If you encounter module resolution warnings:
-  ```powershell
+  If you ever encounter module resolution warnings across different node versions:
+  ```bash
   npm clean-install
   ```
 
