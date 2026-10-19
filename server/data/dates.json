@@ -1,6 +1,6 @@
 [
   {
-    "id": "date-lex-fridman-simone-giertz-1792414284278",
+    "id": "date-lex-fridman-simone-giertz-1792417886247",
     "personA": {
       "id": "lex-fridman",
       "name": "Lex Fridman",
@@ -16,66 +16,66 @@
     "venue": {
       "id": "tokyo-rooftop",
       "name": "Sunset Sky Lounge in Tokyo",
-      "atmosphere": "Neon twilight over Shinjuku, artisanal yuzu cocktails, ambient lo-fi jazz",
-      "vibe": "Reflective, sleek, romantic"
+      "atmosphere": "Neon twilight over Shinjuku, craft cocktails, low-key jazz",
+      "vibe": "Reflective and romantic"
     },
-    "simulatedAt": "2026-10-19T12:51:24.278Z",
-    "overallChemistry": 77,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.247Z",
+    "overallChemistry": 79,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Brazilian Jiu-Jitsu (Black Belt)",
       "Kinetic Art",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 78,
-      "intellectualResonance": 80,
-      "lifestyleSynergy": 75,
-      "conversationalFlow": 79
+      "emotionalAlignment": 80,
+      "intellectualResonance": 82,
+      "lifestyleSynergy": 77,
+      "conversationalFlow": 81
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "lex-fridman",
         "speakerName": "Lex Fridman",
-        "text": "Hello Simone. The ambience here at Sunset Sky Lounge in Tokyo is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
-        "chemistryGauge": 72
+        "text": "Hey Simone. Really glad we could do this. It's funny, looking at your projects—welding, robots that playfully slap people in the face—there's this intense, beautiful curiosity behind the chaos.",
+        "innerMonologue": "She walked in smiling and completely unpretentious. Let's make sure she feels comfortable being her goofy self.",
+        "sentiment": "Warm & Curious",
+        "chemistryGauge": 74
       },
       {
         "turn": 2,
         "speakerId": "simone-giertz",
         "speakerName": "Simone Giertz",
-        "text": "Thank you, Lex. I appreciate you noticing that. I usually spend most of my days knee-deep in Angle-Grinding & Welding, so being in a space like this feels like a breath of fresh air. I noticed your interest in Artificial General Intelligence—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Haha thank you, Lex! Honestly, my workshop is about 90% metal shavings and 10% existential questions. I saw your running logs and guitar clips—do you ever just sit on the couch and stare at the ceiling, or is your entire life a training montage?",
+        "innerMonologue": "Okay, he laughed right away. The serious black-suit guy actually has a warm sense of humor. That's a huge relief.",
+        "sentiment": "Playful & Teasing",
+        "chemistryGauge": 81
       },
       {
         "turn": 3,
         "speakerId": "lex-fridman",
         "speakerName": "Lex Fridman",
-        "text": "It's funny you mention Angle-Grinding & Welding. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Guilty as charged. I do stare at the ceiling, but usually I'm wondering what consciousness actually is, or if my guitar playing sounds like sad Dostoevsky. But I love how you took Truckla and just built it because nobody else would. That kind of creative fearlessness is so rare.",
+        "innerMonologue": "She doesn't care about credentials or resumes. She genuinely cares about the act of making things. That feels like home.",
+        "sentiment": "Genuine & Open",
+        "chemistryGauge": 86
       },
       {
         "turn": 4,
         "speakerId": "simone-giertz",
         "speakerName": "Simone Giertz",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how names all power tools; judges restaurants by whether their chairs can be converted into foldable storage..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Well, Truckla almost gave me three nervous breakdowns, but seeing people's faces on the freeway made every single bruised knuckle worth it. What about you? When you're sitting with someone for 4 hours on the podcast, what makes you feel like you truly connected with them?",
+        "innerMonologue": "He's listening with his whole face. He hasn't looked at his phone once. That's so rare in this city.",
+        "sentiment": "Engaged & Thoughtful",
+        "chemistryGauge": 90
       },
       {
         "turn": 5,
         "speakerId": "lex-fridman",
         "speakerName": "Lex Fridman",
-        "text": "That is brilliant. I have this habit myself—wears identical black suits everywhere; asks complete strangers about their deepest existential fears within 10 minutes.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Kinetic Art.",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
+        "text": "It's the moment when the public persona drops. When someone admits they're scared, or that they really love something stupid. Life is heavy, but sharing a genuine laugh with someone who gets it... that's kind of everything, isn't it?",
+        "innerMonologue": "Chemistry is clicking on every level. We're both suckers for earnest vulnerability.",
         "sentiment": "Deep Resonance",
         "chemistryGauge": 93
       },
@@ -83,15 +83,15 @@
         "turn": 6,
         "speakerId": "simone-giertz",
         "speakerName": "Simone Giertz",
-        "text": "Three hours might not be enough, Lex. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
-        "chemistryGauge": 95
+        "text": "Couldn't agree more, Lex. Look, next time we should skip the fancy drinks—come by the workshop, I'll teach you how to weld, and you can teach me a song on the guitar. Deal?",
+        "innerMonologue": "Definitely want a second date. He's authentic, kind, and grounded.",
+        "sentiment": "Affectionate & Ready for Date 2",
+        "chemistryGauge": 96
       }
     ]
   },
   {
-    "id": "date-marques-brownlee-cleo-abram-1792414284287",
+    "id": "date-marques-brownlee-cleo-abram-1792417886248",
     "personA": {
       "id": "marques-brownlee",
       "name": "Marques Brownlee",
@@ -107,82 +107,82 @@
     "venue": {
       "id": "west-village-cafe",
       "name": "Hidden Bookshop Cafe in West Village",
-      "atmosphere": "Aroma of fresh pour-over Ethiopian coffee, vintage wooden shelves, rainy afternoon",
-      "vibe": "Introspective, cozy, intellectually stimulating"
+      "atmosphere": "Pour-over coffee, vintage cedar shelves, rainy afternoon",
+      "vibe": "Cozy and intimate"
     },
-    "simulatedAt": "2026-10-19T12:51:24.287Z",
-    "overallChemistry": 73,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.248Z",
+    "overallChemistry": 75,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Pro Ultimate Frisbee (AUDL Champion)",
       "Nuclear Fusion & Clean Energy",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 74,
-      "intellectualResonance": 76,
-      "lifestyleSynergy": 71,
-      "conversationalFlow": 75
+      "emotionalAlignment": 76,
+      "intellectualResonance": 78,
+      "lifestyleSynergy": 73,
+      "conversationalFlow": 77
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "marques-brownlee",
         "speakerName": "Marques Brownlee",
-        "text": "Hello Cleo. The ambience here at Hidden Bookshop Cafe in West Village is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
+        "text": "Hey Cleo, really nice to finally meet you. I was looking through your work earlier—you have this really distinct focus on Visiting Advanced Research Labs, which is super cool to see.",
+        "innerMonologue": "First impression: relaxed posture, genuine eye contact. Let's keep things easygoing and not turn this into an interview.",
+        "sentiment": "Friendly & Welcoming",
         "chemistryGauge": 72
       },
       {
         "turn": 2,
         "speakerId": "cleo-abram",
         "speakerName": "Cleo Abram",
-        "text": "Thank you, Marques. I appreciate you noticing that. I usually spend most of my days knee-deep in Visiting Advanced Research Labs, so being in a space like this feels like a breath of fresh air. I noticed your interest in Industrial Design & Minimalism—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Thanks Marques! Yeah, I get completely obsessed with it once I start. I actually saw you spend a lot of time on Pro Ultimate Frisbee (AUDL Champion)—how do you manage to carve out time for that with your schedule?",
+        "innerMonologue": "Love that they jumped straight to real passions rather than making small talk about traffic or the weather.",
+        "sentiment": "Engaged & Curious",
+        "chemistryGauge": 78
       },
       {
         "turn": 3,
         "speakerId": "marques-brownlee",
         "speakerName": "Marques Brownlee",
-        "text": "It's funny you mention Visiting Advanced Research Labs. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Honestly, it's the only thing that keeps me sane. If I don't build or move my body in the morning, the rest of my day feels off. Though I have this habit—refuses to buy anything that doesn't come in matte black; checks screen refresh rates within 3 seconds of holding any device..",
+        "innerMonologue": "Testing how they react to goofy self-deprecation. If they laugh, we're in good shape.",
+        "sentiment": "Candid & Amused",
+        "chemistryGauge": 84
       },
       {
         "turn": 4,
         "speakerId": "cleo-abram",
         "speakerName": "Cleo Abram",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how gets genuinely giddy when standing next to superconducting magnets; carries a notebook full of physics questions to cocktail parties..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Haha, I love that! Mine is definitely gets genuinely giddy when standing next to superconducting magnets; carries a notebook full of physics questions to cocktail parties.. It drives my friends crazy, but at this point I've just embraced the quirks. I really appreciate people who don't take themselves too seriously.",
+        "innerMonologue": "They smiled! The vibe just shifted from 'polite first date' to genuine camaraderie.",
+        "sentiment": "Relaxed & Laughing",
+        "chemistryGauge": 89
       },
       {
         "turn": 5,
         "speakerId": "marques-brownlee",
         "speakerName": "Marques Brownlee",
-        "text": "That is brilliant. I have this habit myself—refuses to buy anything that doesn't come in matte black; checks screen refresh rates within 3 seconds of holding any device.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Nuclear Fusion & Clean Energy.",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
-        "sentiment": "Deep Resonance",
+        "text": "Exactly. We spend so much energy on our day jobs, so in real life you just want someone you can laugh with over bad pizza and talk about things like Industrial Design & Minimalism.",
+        "innerMonologue": "Conversation has effortless momentum. No awkward silences, no posturing.",
+        "sentiment": "Warm Spark",
         "chemistryGauge": 93
       },
       {
         "turn": 6,
         "speakerId": "cleo-abram",
         "speakerName": "Cleo Abram",
-        "text": "Three hours might not be enough, Marques. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
+        "text": "Count me in for bad pizza any day. I've had such a great time talking with you, Marques. Let's definitely do this again soon.",
+        "innerMonologue": "Second date confirmed. Chemistry and communication pacing felt completely natural.",
+        "sentiment": "Mutual Connection",
         "chemistryGauge": 95
       }
     ]
   },
   {
-    "id": "date-justine-ezarik-austin-evans-1792414284287",
+    "id": "date-justine-ezarik-austin-evans-1792417886249",
     "personA": {
       "id": "justine-ezarik",
       "name": "Justine Ezarik",
@@ -197,83 +197,83 @@
     },
     "venue": {
       "id": "pottery-wine",
-      "name": "Late-Night Artisan Pottery & Natural Wine Studio",
-      "atmosphere": "Spinning pottery wheels, terracotta clay, candlelight, chilled pet-nat",
-      "vibe": "Playful, tactile, creatively vulnerable"
+      "name": "Late-Night Pottery & Wine Studio",
+      "atmosphere": "Spinning pottery wheels, terracotta clay, candlelight, pet-nat wine",
+      "vibe": "Playful and hands-on"
     },
-    "simulatedAt": "2026-10-19T12:51:24.287Z",
-    "overallChemistry": 73,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.249Z",
+    "overallChemistry": 75,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Co-op Video Gaming (Nintendo/PS5)",
       "Gaming Hardware Evolution",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 74,
-      "intellectualResonance": 76,
-      "lifestyleSynergy": 71,
-      "conversationalFlow": 75
+      "emotionalAlignment": 76,
+      "intellectualResonance": 78,
+      "lifestyleSynergy": 73,
+      "conversationalFlow": 77
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "justine-ezarik",
         "speakerName": "Justine Ezarik",
-        "text": "Hello Austin. The ambience here at Late-Night Artisan Pottery & Natural Wine Studio is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
+        "text": "Hey Austin, really nice to finally meet you. I was looking through your work earlier—you have this really distinct focus on Retro Nintendo Console Restoration, which is super cool to see.",
+        "innerMonologue": "First impression: relaxed posture, genuine eye contact. Let's keep things easygoing and not turn this into an interview.",
+        "sentiment": "Friendly & Welcoming",
         "chemistryGauge": 72
       },
       {
         "turn": 2,
         "speakerId": "austin-evans",
         "speakerName": "Austin Evans",
-        "text": "Thank you, Justine. I appreciate you noticing that. I usually spend most of my days knee-deep in Retro Nintendo Console Restoration, so being in a space like this feels like a breath of fresh air. I noticed your interest in Spatial Computing & VR—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Thanks Justine! Yeah, I get completely obsessed with it once I start. I actually saw you spend a lot of time on Co-op Video Gaming (Nintendo/PS5)—how do you manage to carve out time for that with your schedule?",
+        "innerMonologue": "Love that they jumped straight to real passions rather than making small talk about traffic or the weather.",
+        "sentiment": "Engaged & Curious",
+        "chemistryGauge": 78
       },
       {
         "turn": 3,
         "speakerId": "justine-ezarik",
         "speakerName": "Justine Ezarik",
-        "text": "It's funny you mention Retro Nintendo Console Restoration. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Honestly, it's the only thing that keeps me sane. If I don't build or move my body in the morning, the rest of my day feels off. Though I have this habit—color-coordinates her tech accessories to her outfits; has an emotional connection to pristine packaging unboxing sounds..",
+        "innerMonologue": "Testing how they react to goofy self-deprecation. If they laugh, we're in good shape.",
+        "sentiment": "Candid & Amused",
+        "chemistryGauge": 84
       },
       {
         "turn": 4,
         "speakerId": "austin-evans",
         "speakerName": "Austin Evans",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how opens mystery packages with extreme dramatic anticipation; cannot resist buying transparent retro electronic shells..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Haha, I love that! Mine is definitely opens mystery packages with extreme dramatic anticipation; cannot resist buying transparent retro electronic shells.. It drives my friends crazy, but at this point I've just embraced the quirks. I really appreciate people who don't take themselves too seriously.",
+        "innerMonologue": "They smiled! The vibe just shifted from 'polite first date' to genuine camaraderie.",
+        "sentiment": "Relaxed & Laughing",
+        "chemistryGauge": 89
       },
       {
         "turn": 5,
         "speakerId": "justine-ezarik",
         "speakerName": "Justine Ezarik",
-        "text": "That is brilliant. I have this habit myself—color-coordinates her tech accessories to her outfits; has an emotional connection to pristine packaging unboxing sounds.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Gaming Hardware Evolution.",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
-        "sentiment": "Deep Resonance",
+        "text": "Exactly. We spend so much energy on our day jobs, so in real life you just want someone you can laugh with over bad pizza and talk about things like Spatial Computing & VR.",
+        "innerMonologue": "Conversation has effortless momentum. No awkward silences, no posturing.",
+        "sentiment": "Warm Spark",
         "chemistryGauge": 93
       },
       {
         "turn": 6,
         "speakerId": "austin-evans",
         "speakerName": "Austin Evans",
-        "text": "Three hours might not be enough, Justine. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
+        "text": "Count me in for bad pizza any day. I've had such a great time talking with you, Justine. Let's definitely do this again soon.",
+        "innerMonologue": "Second date confirmed. Chemistry and communication pacing felt completely natural.",
+        "sentiment": "Mutual Connection",
         "chemistryGauge": 95
       }
     ]
   },
   {
-    "id": "date-sara-blakely-shaan-puri-1792414284287",
+    "id": "date-sara-blakely-shaan-puri-1792417886249",
     "personA": {
       "id": "sara-blakely",
       "name": "Sara Blakely",
@@ -289,82 +289,82 @@
     "venue": {
       "id": "austin-stargazing",
       "name": "Hill Country Fireside & Stargazing Lounge",
-      "atmosphere": "Crackling cedar campfire, acoustic guitar strings, vast starlit Texas horizon",
-      "vibe": "Grounded, honest, soul-stirring"
+      "atmosphere": "Crackling cedar campfire, acoustic guitar, open night sky",
+      "vibe": "Grounded and soulful"
     },
-    "simulatedAt": "2026-10-19T12:51:24.288Z",
-    "overallChemistry": 73,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.249Z",
+    "overallChemistry": 75,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Invention Prototyping",
       "Viral Media Dynamics",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 74,
-      "intellectualResonance": 76,
-      "lifestyleSynergy": 71,
-      "conversationalFlow": 75
+      "emotionalAlignment": 76,
+      "intellectualResonance": 78,
+      "lifestyleSynergy": 73,
+      "conversationalFlow": 77
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "sara-blakely",
         "speakerName": "Sara Blakely",
-        "text": "Hello Shaan. The ambience here at Hill Country Fireside & Stargazing Lounge is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
+        "text": "Hey Shaan, really nice to finally meet you. I was looking through your work earlier—you have this really distinct focus on Pickleball & Basketball, which is super cool to see.",
+        "innerMonologue": "First impression: relaxed posture, genuine eye contact. Let's keep things easygoing and not turn this into an interview.",
+        "sentiment": "Friendly & Welcoming",
         "chemistryGauge": 72
       },
       {
         "turn": 2,
         "speakerId": "shaan-puri",
         "speakerName": "Shaan Puri",
-        "text": "Thank you, Sara. I appreciate you noticing that. I usually spend most of my days knee-deep in Pickleball & Basketball, so being in a space like this feels like a breath of fresh air. I noticed your interest in Female Empowerment—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Thanks Sara! Yeah, I get completely obsessed with it once I start. I actually saw you spend a lot of time on Invention Prototyping—how do you manage to carve out time for that with your schedule?",
+        "innerMonologue": "Love that they jumped straight to real passions rather than making small talk about traffic or the weather.",
+        "sentiment": "Engaged & Curious",
+        "chemistryGauge": 78
       },
       {
         "turn": 3,
         "speakerId": "sara-blakely",
         "speakerName": "Sara Blakely",
-        "text": "It's funny you mention Pickleball & Basketball. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Honestly, it's the only thing that keeps me sane. If I don't build or move my body in the morning, the rest of my day feels off. Though I have this habit—keeps a 'doodle notebook' in her purse at all times; celebrates failures with celebratory dinners..",
+        "innerMonologue": "Testing how they react to goofy self-deprecation. If they laugh, we're in good shape.",
+        "sentiment": "Candid & Amused",
+        "chemistryGauge": 84
       },
       {
         "turn": 4,
         "speakerId": "shaan-puri",
         "speakerName": "Shaan Puri",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how rates everything in life on a '1 to 10 scale of juice'; cannot sit through a meeting without proposing 3 new businesses..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Haha, I love that! Mine is definitely rates everything in life on a '1 to 10 scale of juice'; cannot sit through a meeting without proposing 3 new businesses.. It drives my friends crazy, but at this point I've just embraced the quirks. I really appreciate people who don't take themselves too seriously.",
+        "innerMonologue": "They smiled! The vibe just shifted from 'polite first date' to genuine camaraderie.",
+        "sentiment": "Relaxed & Laughing",
+        "chemistryGauge": 89
       },
       {
         "turn": 5,
         "speakerId": "sara-blakely",
         "speakerName": "Sara Blakely",
-        "text": "That is brilliant. I have this habit myself—keeps a 'doodle notebook' in her purse at all times; celebrates failures with celebratory dinners.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Viral Media Dynamics.",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
-        "sentiment": "Deep Resonance",
+        "text": "Exactly. We spend so much energy on our day jobs, so in real life you just want someone you can laugh with over bad pizza and talk about things like Female Empowerment.",
+        "innerMonologue": "Conversation has effortless momentum. No awkward silences, no posturing.",
+        "sentiment": "Warm Spark",
         "chemistryGauge": 93
       },
       {
         "turn": 6,
         "speakerId": "shaan-puri",
         "speakerName": "Shaan Puri",
-        "text": "Three hours might not be enough, Sara. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
+        "text": "Count me in for bad pizza any day. I've had such a great time talking with you, Sara. Let's definitely do this again soon.",
+        "innerMonologue": "Second date confirmed. Chemistry and communication pacing felt completely natural.",
+        "sentiment": "Mutual Connection",
         "chemistryGauge": 95
       }
     ]
   },
   {
-    "id": "date-alex-lieberman-natalie-barbu-1792414284288",
+    "id": "date-alex-lieberman-natalie-barbu-1792417886249",
     "personA": {
       "id": "alex-lieberman",
       "name": "Alex Lieberman",
@@ -380,82 +380,82 @@
     "venue": {
       "id": "west-village-cafe",
       "name": "Hidden Bookshop Cafe in West Village",
-      "atmosphere": "Aroma of fresh pour-over Ethiopian coffee, vintage wooden shelves, rainy afternoon",
-      "vibe": "Introspective, cozy, intellectually stimulating"
+      "atmosphere": "Pour-over coffee, vintage cedar shelves, rainy afternoon",
+      "vibe": "Cozy and intimate"
     },
-    "simulatedAt": "2026-10-19T12:51:24.288Z",
-    "overallChemistry": 73,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.249Z",
+    "overallChemistry": 75,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Golf",
       "Creator Economy Infrastructure",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 74,
-      "intellectualResonance": 76,
-      "lifestyleSynergy": 71,
-      "conversationalFlow": 75
+      "emotionalAlignment": 76,
+      "intellectualResonance": 78,
+      "lifestyleSynergy": 73,
+      "conversationalFlow": 77
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "alex-lieberman",
         "speakerName": "Alex Lieberman",
-        "text": "Hello Natalie. The ambience here at Hidden Bookshop Cafe in West Village is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
+        "text": "Hey Natalie, really nice to finally meet you. I was looking through your work earlier—you have this really distinct focus on Pilates & Strength Training, which is super cool to see.",
+        "innerMonologue": "First impression: relaxed posture, genuine eye contact. Let's keep things easygoing and not turn this into an interview.",
+        "sentiment": "Friendly & Welcoming",
         "chemistryGauge": 72
       },
       {
         "turn": 2,
         "speakerId": "natalie-barbu",
         "speakerName": "Natalie Barbu",
-        "text": "Thank you, Alex. I appreciate you noticing that. I usually spend most of my days knee-deep in Pilates & Strength Training, so being in a space like this feels like a breath of fresh air. I noticed your interest in Media Business Models—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Thanks Alex! Yeah, I get completely obsessed with it once I start. I actually saw you spend a lot of time on Golf—how do you manage to carve out time for that with your schedule?",
+        "innerMonologue": "Love that they jumped straight to real passions rather than making small talk about traffic or the weather.",
+        "sentiment": "Engaged & Curious",
+        "chemistryGauge": 78
       },
       {
         "turn": 3,
         "speakerId": "alex-lieberman",
         "speakerName": "Alex Lieberman",
-        "text": "It's funny you mention Pilates & Strength Training. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Honestly, it's the only thing that keeps me sane. If I don't build or move my body in the morning, the rest of my day feels off. Though I have this habit—analyzes email subject lines of promotional flyers; measures productivity in terms of headspace clarity..",
+        "innerMonologue": "Testing how they react to goofy self-deprecation. If they laugh, we're in good shape.",
+        "sentiment": "Candid & Amused",
+        "chemistryGauge": 84
       },
       {
         "turn": 4,
         "speakerId": "natalie-barbu",
         "speakerName": "Natalie Barbu",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how color-codes her calendar down to 15-minute segments; tests workflow productivity tools like others test restaurants..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Haha, I love that! Mine is definitely color-codes her calendar down to 15-minute segments; tests workflow productivity tools like others test restaurants.. It drives my friends crazy, but at this point I've just embraced the quirks. I really appreciate people who don't take themselves too seriously.",
+        "innerMonologue": "They smiled! The vibe just shifted from 'polite first date' to genuine camaraderie.",
+        "sentiment": "Relaxed & Laughing",
+        "chemistryGauge": 89
       },
       {
         "turn": 5,
         "speakerId": "alex-lieberman",
         "speakerName": "Alex Lieberman",
-        "text": "That is brilliant. I have this habit myself—analyzes email subject lines of promotional flyers; measures productivity in terms of headspace clarity.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Creator Economy Infrastructure.",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
-        "sentiment": "Deep Resonance",
+        "text": "Exactly. We spend so much energy on our day jobs, so in real life you just want someone you can laugh with over bad pizza and talk about things like Media Business Models.",
+        "innerMonologue": "Conversation has effortless momentum. No awkward silences, no posturing.",
+        "sentiment": "Warm Spark",
         "chemistryGauge": 93
       },
       {
         "turn": 6,
         "speakerId": "natalie-barbu",
         "speakerName": "Natalie Barbu",
-        "text": "Three hours might not be enough, Alex. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
+        "text": "Count me in for bad pizza any day. I've had such a great time talking with you, Alex. Let's definitely do this again soon.",
+        "innerMonologue": "Second date confirmed. Chemistry and communication pacing felt completely natural.",
+        "sentiment": "Mutual Connection",
         "chemistryGauge": 95
       }
     ]
   },
   {
-    "id": "date-dan-abramov-cassidy-williams-1792414284288",
+    "id": "date-dan-abramov-cassidy-williams-1792417886249",
     "personA": {
       "id": "dan-abramov",
       "name": "Dan Abramov",
@@ -470,83 +470,83 @@
     },
     "venue": {
       "id": "pottery-wine",
-      "name": "Late-Night Artisan Pottery & Natural Wine Studio",
-      "atmosphere": "Spinning pottery wheels, terracotta clay, candlelight, chilled pet-nat",
-      "vibe": "Playful, tactile, creatively vulnerable"
+      "name": "Late-Night Pottery & Wine Studio",
+      "atmosphere": "Spinning pottery wheels, terracotta clay, candlelight, pet-nat wine",
+      "vibe": "Playful and hands-on"
     },
-    "simulatedAt": "2026-10-19T12:51:24.288Z",
-    "overallChemistry": 79,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.249Z",
+    "overallChemistry": 81,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Custom Mechanical Keyboard Building",
       "Developer Community Empathy",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 80,
-      "intellectualResonance": 82,
-      "lifestyleSynergy": 77,
-      "conversationalFlow": 81
+      "emotionalAlignment": 82,
+      "intellectualResonance": 84,
+      "lifestyleSynergy": 79,
+      "conversationalFlow": 83
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "dan-abramov",
         "speakerName": "Dan Abramov",
-        "text": "Hello Cassidy. The ambience here at Late-Night Artisan Pottery & Natural Wine Studio is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
+        "text": "Hey Cassidy, really nice to finally meet you. I was looking through your work earlier—you have this really distinct focus on Custom Mechanical Keyboard Building, which is super cool to see.",
+        "innerMonologue": "First impression: relaxed posture, genuine eye contact. Let's keep things easygoing and not turn this into an interview.",
+        "sentiment": "Friendly & Welcoming",
         "chemistryGauge": 72
       },
       {
         "turn": 2,
         "speakerId": "cassidy-williams",
         "speakerName": "Cassidy Williams",
-        "text": "Thank you, Dan. I appreciate you noticing that. I usually spend most of my days knee-deep in Custom Mechanical Keyboard Building, so being in a space like this feels like a breath of fresh air. I noticed your interest in Mental Models of Computing—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Thanks Dan! Yeah, I get completely obsessed with it once I start. I actually saw you spend a lot of time on Custom Mechanical Keyboard Building—how do you manage to carve out time for that with your schedule?",
+        "innerMonologue": "Love that they jumped straight to real passions rather than making small talk about traffic or the weather.",
+        "sentiment": "Engaged & Curious",
+        "chemistryGauge": 78
       },
       {
         "turn": 3,
         "speakerId": "dan-abramov",
         "speakerName": "Dan Abramov",
-        "text": "It's funny you mention Custom Mechanical Keyboard Building. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Honestly, it's the only thing that keeps me sane. If I don't build or move my body in the morning, the rest of my day feels off. Though I have this habit—wrote a world-famous blog post listing 'things i don't know' to prove expertise is largely a myth..",
+        "innerMonologue": "Testing how they react to goofy self-deprecation. If they laugh, we're in good shape.",
+        "sentiment": "Candid & Amused",
+        "chemistryGauge": 84
       },
       {
         "turn": 4,
         "speakerId": "cassidy-williams",
         "speakerName": "Cassidy Williams",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how owns over 70 custom mechanical keyboards; can identify keyboard switch types purely by the sound of typing blindfolded..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Haha, I love that! Mine is definitely owns over 70 custom mechanical keyboards; can identify keyboard switch types purely by the sound of typing blindfolded.. It drives my friends crazy, but at this point I've just embraced the quirks. I really appreciate people who don't take themselves too seriously.",
+        "innerMonologue": "They smiled! The vibe just shifted from 'polite first date' to genuine camaraderie.",
+        "sentiment": "Relaxed & Laughing",
+        "chemistryGauge": 89
       },
       {
         "turn": 5,
         "speakerId": "dan-abramov",
         "speakerName": "Dan Abramov",
-        "text": "That is brilliant. I have this habit myself—wrote a world-famous blog post listing 'things i don't know' to prove expertise is largely a myth.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Developer Community Empathy.",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
-        "sentiment": "Deep Resonance",
+        "text": "Exactly. We spend so much energy on our day jobs, so in real life you just want someone you can laugh with over bad pizza and talk about things like Mental Models of Computing.",
+        "innerMonologue": "Conversation has effortless momentum. No awkward silences, no posturing.",
+        "sentiment": "Warm Spark",
         "chemistryGauge": 93
       },
       {
         "turn": 6,
         "speakerId": "cassidy-williams",
         "speakerName": "Cassidy Williams",
-        "text": "Three hours might not be enough, Dan. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
+        "text": "Count me in for bad pizza any day. I've had such a great time talking with you, Dan. Let's definitely do this again soon.",
+        "innerMonologue": "Second date confirmed. Chemistry and communication pacing felt completely natural.",
+        "sentiment": "Mutual Connection",
         "chemistryGauge": 95
       }
     ]
   },
   {
-    "id": "date-jack-conte-ali-spagnola-1792414284288",
+    "id": "date-jack-conte-ali-spagnola-1792417886249",
     "personA": {
       "id": "jack-conte",
       "name": "Jack Conte",
@@ -562,82 +562,82 @@
     "venue": {
       "id": "tokyo-rooftop",
       "name": "Sunset Sky Lounge in Tokyo",
-      "atmosphere": "Neon twilight over Shinjuku, artisanal yuzu cocktails, ambient lo-fi jazz",
-      "vibe": "Reflective, sleek, romantic"
+      "atmosphere": "Neon twilight over Shinjuku, craft cocktails, low-key jazz",
+      "vibe": "Reflective and romantic"
     },
-    "simulatedAt": "2026-10-19T12:51:24.288Z",
-    "overallChemistry": 73,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.249Z",
+    "overallChemistry": 75,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Vintage Analog Synth Repair",
       "Visual Color Theory (Yellow Obsession)",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 74,
-      "intellectualResonance": 76,
-      "lifestyleSynergy": 71,
-      "conversationalFlow": 75
+      "emotionalAlignment": 76,
+      "intellectualResonance": 78,
+      "lifestyleSynergy": 73,
+      "conversationalFlow": 77
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "jack-conte",
         "speakerName": "Jack Conte",
-        "text": "Hello Ali. The ambience here at Sunset Sky Lounge in Tokyo is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
+        "text": "Hey Ali, really nice to finally meet you. I was looking through your work earlier—you have this really distinct focus on Oil & Acrylic Canvas Painting, which is super cool to see.",
+        "innerMonologue": "First impression: relaxed posture, genuine eye contact. Let's keep things easygoing and not turn this into an interview.",
+        "sentiment": "Friendly & Welcoming",
         "chemistryGauge": 72
       },
       {
         "turn": 2,
         "speakerId": "ali-spagnola",
         "speakerName": "Ali Spagnola",
-        "text": "Thank you, Jack. I appreciate you noticing that. I usually spend most of my days knee-deep in Oil & Acrylic Canvas Painting, so being in a space like this feels like a breath of fresh air. I noticed your interest in Creator Independence Economics—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Thanks Jack! Yeah, I get completely obsessed with it once I start. I actually saw you spend a lot of time on Vintage Analog Synth Repair—how do you manage to carve out time for that with your schedule?",
+        "innerMonologue": "Love that they jumped straight to real passions rather than making small talk about traffic or the weather.",
+        "sentiment": "Engaged & Curious",
+        "chemistryGauge": 78
       },
       {
         "turn": 3,
         "speakerId": "jack-conte",
         "speakerName": "Jack Conte",
-        "text": "It's funny you mention Oil & Acrylic Canvas Painting. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Honestly, it's the only thing that keeps me sane. If I don't build or move my body in the morning, the rest of my day feels off. Though I have this habit—gets so excited about a bassline that he jumps onto furniture; spent three months building a robotic foam robot for a music video..",
+        "innerMonologue": "Testing how they react to goofy self-deprecation. If they laugh, we're in good shape.",
+        "sentiment": "Candid & Amused",
+        "chemistryGauge": 84
       },
       {
         "turn": 4,
         "speakerId": "ali-spagnola",
         "speakerName": "Ali Spagnola",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how wears bright yellow in 95% of her outfits; painted a brand new 12x12 canvas every single day for over a decade..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Haha, I love that! Mine is definitely wears bright yellow in 95% of her outfits; painted a brand new 12x12 canvas every single day for over a decade.. It drives my friends crazy, but at this point I've just embraced the quirks. I really appreciate people who don't take themselves too seriously.",
+        "innerMonologue": "They smiled! The vibe just shifted from 'polite first date' to genuine camaraderie.",
+        "sentiment": "Relaxed & Laughing",
+        "chemistryGauge": 89
       },
       {
         "turn": 5,
         "speakerId": "jack-conte",
         "speakerName": "Jack Conte",
-        "text": "That is brilliant. I have this habit myself—gets so excited about a bassline that he jumps onto furniture; spent three months building a robotic foam robot for a music video.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Visual Color Theory (Yellow Obsession).",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
-        "sentiment": "Deep Resonance",
+        "text": "Exactly. We spend so much energy on our day jobs, so in real life you just want someone you can laugh with over bad pizza and talk about things like Creator Independence Economics.",
+        "innerMonologue": "Conversation has effortless momentum. No awkward silences, no posturing.",
+        "sentiment": "Warm Spark",
         "chemistryGauge": 93
       },
       {
         "turn": 6,
         "speakerId": "ali-spagnola",
         "speakerName": "Ali Spagnola",
-        "text": "Three hours might not be enough, Jack. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
+        "text": "Count me in for bad pizza any day. I've had such a great time talking with you, Jack. Let's definitely do this again soon.",
+        "innerMonologue": "Second date confirmed. Chemistry and communication pacing felt completely natural.",
+        "sentiment": "Mutual Connection",
         "chemistryGauge": 95
       }
     ]
   },
   {
-    "id": "date-guillermo-rauch-julie-zhuo-1792414284288",
+    "id": "date-guillermo-rauch-julie-zhuo-1792417886249",
     "personA": {
       "id": "guillermo-rauch",
       "name": "Guillermo Rauch",
@@ -653,76 +653,76 @@
     "venue": {
       "id": "west-village-cafe",
       "name": "Hidden Bookshop Cafe in West Village",
-      "atmosphere": "Aroma of fresh pour-over Ethiopian coffee, vintage wooden shelves, rainy afternoon",
-      "vibe": "Introspective, cozy, intellectually stimulating"
+      "atmosphere": "Pour-over coffee, vintage cedar shelves, rainy afternoon",
+      "vibe": "Cozy and intimate"
     },
-    "simulatedAt": "2026-10-19T12:51:24.288Z",
-    "overallChemistry": 73,
-    "verdict": "☕ Pleasant Connection — Meaningful Friendly Resonance",
+    "simulatedAt": "2026-10-19T13:51:26.249Z",
+    "overallChemistry": 75,
+    "verdict": "Pleasant First Date — Great Friendly Chemistry",
     "sharedPassions": [
       "Swiss Graphic Design & Typography",
       "Human-Computer Intuition",
-      "Lifelong Learning & Craft"
+      "Lifelong Learning"
     ],
     "breakdown": {
-      "emotionalAlignment": 74,
-      "intellectualResonance": 76,
-      "lifestyleSynergy": 71,
-      "conversationalFlow": 75
+      "emotionalAlignment": 76,
+      "intellectualResonance": 78,
+      "lifestyleSynergy": 73,
+      "conversationalFlow": 77
     },
     "turns": [
       {
         "turn": 1,
         "speakerId": "guillermo-rauch",
         "speakerName": "Guillermo Rauch",
-        "text": "Hello Julie. The ambience here at Hidden Bookshop Cafe in West Village is remarkable. I was just reading through the quiet signals in your profile—there is an unmistakable gravity and focus to your work.",
-        "innerMonologue": "Agent Analysis: Noticing initial poise and open posture. The balance between her public accomplishments and grounded hobbies suggests genuine substance. Let's establish comfort first.",
-        "sentiment": "Warm & Observant",
+        "text": "Hey Julie, really nice to finally meet you. I was looking through your work earlier—you have this really distinct focus on Watercolor Painting & Illustration, which is super cool to see.",
+        "innerMonologue": "First impression: relaxed posture, genuine eye contact. Let's keep things easygoing and not turn this into an interview.",
+        "sentiment": "Friendly & Welcoming",
         "chemistryGauge": 72
       },
       {
         "turn": 2,
         "speakerId": "julie-zhuo",
         "speakerName": "Julie Zhuo",
-        "text": "Thank you, Guillermo. I appreciate you noticing that. I usually spend most of my days knee-deep in Watercolor Painting & Illustration, so being in a space like this feels like a breath of fresh air. I noticed your interest in Sub-millisecond Web Performance—that's rare to see paired with such quiet discipline.",
-        "innerMonologue": "Agent Reflection: He skipped superficial pleasantries and went straight to what matters. His voice modulation matches his calm energy profile. I feel relaxed already.",
-        "sentiment": "Engaged & Intrigued",
-        "chemistryGauge": 77
+        "text": "Thanks Guillermo! Yeah, I get completely obsessed with it once I start. I actually saw you spend a lot of time on Swiss Graphic Design & Typography—how do you manage to carve out time for that with your schedule?",
+        "innerMonologue": "Love that they jumped straight to real passions rather than making small talk about traffic or the weather.",
+        "sentiment": "Engaged & Curious",
+        "chemistryGauge": 78
       },
       {
         "turn": 3,
         "speakerId": "guillermo-rauch",
         "speakerName": "Guillermo Rauch",
-        "text": "It's funny you mention Watercolor Painting & Illustration. People often think dedication to craft isolates you, but I find it actually deepens your capacity for connection. When you care intensely about something, you recognize that exact same fire in someone else. What keeps you grounded when everything gets noisy?",
-        "innerMonologue": "Agent Probing: Testing emotional vulnerability and coping mechanisms. Her Instagram showed serene weekend moments alongside intense work sprints—checking if that matches reality.",
-        "sentiment": "Curious & Soulful",
-        "chemistryGauge": 83
+        "text": "Honestly, it's the only thing that keeps me sane. If I don't build or move my body in the morning, the rest of my day feels off. Though I have this habit—measures web page latency in single milliseconds; refuses to use apps with noticeable layout shift..",
+        "innerMonologue": "Testing how they react to goofy self-deprecation. If they laugh, we're in good shape.",
+        "sentiment": "Candid & Amused",
+        "chemistryGauge": 84
       },
       {
         "turn": 4,
         "speakerId": "julie-zhuo",
         "speakerName": "Julie Zhuo",
-        "text": "Honestly? It's the small, tactile rituals. Pouring a careful cup in the morning, stepping away from notifications, and being around people who don't care about your resume. Also, a little bit of playful chaos—like how draws hand-sketched 2x2 matrix diagrams when making personal life choices; carries watercolor brushes in her everyday tote..",
-        "innerMonologue": "Agent Spark: He smiles at the quirk! The warmth in his eyes is authentic. His emotional needs for quiet devotion clearly harmonize with my longing for genuine presence.",
-        "sentiment": "Playfully Candid",
-        "chemistryGauge": 88
+        "text": "Haha, I love that! Mine is definitely draws hand-sketched 2x2 matrix diagrams when making personal life choices; carries watercolor brushes in her everyday tote.. It drives my friends crazy, but at this point I've just embraced the quirks. I really appreciate people who don't take themselves too seriously.",
+        "innerMonologue": "They smiled! The vibe just shifted from 'polite first date' to genuine camaraderie.",
+        "sentiment": "Relaxed & Laughing",
+        "chemistryGauge": 89
       },
       {
         "turn": 5,
         "speakerId": "guillermo-rauch",
         "speakerName": "Guillermo Rauch",
-        "text": "That is brilliant. I have this habit myself—measures web page latency in single milliseconds; refuses to use apps with noticeable layout shift.. Life is too short to take ourselves overly seriously, even while we work on monumental challenges. I feel like we could sit here for three more hours and only scratch the surface of Human-Computer Intuition.",
-        "innerMonologue": "Agent Assessment: Chemistry delta is surging (+8). The dialogue rhythm has moved past cautious dating into genuine intellectual and emotional resonance.",
-        "sentiment": "Deep Resonance",
+        "text": "Exactly. We spend so much energy on our day jobs, so in real life you just want someone you can laugh with over bad pizza and talk about things like Sub-millisecond Web Performance.",
+        "innerMonologue": "Conversation has effortless momentum. No awkward silences, no posturing.",
+        "sentiment": "Warm Spark",
         "chemistryGauge": 93
       },
       {
         "turn": 6,
         "speakerId": "julie-zhuo",
         "speakerName": "Julie Zhuo",
-        "text": "Three hours might not be enough, Guillermo. It's so refreshing to meet an agent who truly captures the human behind the screen. I'd love to continue this conversation—perhaps next time on a quiet trail or over acoustic guitar?",
-        "innerMonologue": "Agent Conclusion: Mutual high compatibility confirmed. Romantic pacing aligned. Proposing a second encounter with high confidence.",
-        "sentiment": "Affectionate & Anticipating",
+        "text": "Count me in for bad pizza any day. I've had such a great time talking with you, Guillermo. Let's definitely do this again soon.",
+        "innerMonologue": "Second date confirmed. Chemistry and communication pacing felt completely natural.",
+        "sentiment": "Mutual Connection",
         "chemistryGauge": 95
       }
     ]

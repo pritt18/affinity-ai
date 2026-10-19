@@ -20,41 +20,36 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
-// In-memory data paths
 const PEOPLE_FILE = path.join(__dirname, 'data', 'people.json');
 const DATES_FILE = path.join(__dirname, 'data', 'dates.json');
 
-function loadPeople() {
+const loadPeople = () => {
   try {
     return JSON.parse(fs.readFileSync(PEOPLE_FILE, 'utf8'));
   } catch (err) {
     console.error('Error loading people:', err);
     return [];
   }
-}
+};
 
-function savePeople(people) {
+const savePeople = (people) => {
   fs.writeFileSync(PEOPLE_FILE, JSON.stringify(people, null, 2), 'utf8');
-}
+};
 
-function loadDates() {
+const loadDates = () => {
   try {
     return JSON.parse(fs.readFileSync(DATES_FILE, 'utf8'));
   } catch (err) {
     console.error('Error loading dates:', err);
     return [];
   }
-}
+};
 
-function saveDates(dates) {
+const saveDates = (dates) => {
   fs.writeFileSync(DATES_FILE, JSON.stringify(dates, null, 2), 'utf8');
-}
+};
 
-// ================= API ROUTES =================
-
-/**
- * Health / Network Overview
- */
+// Network overview stats
 app.get('/api/stats', (req, res) => {
   const people = loadPeople();
   const dates = loadDates();
@@ -66,35 +61,24 @@ app.get('/api/stats', (req, res) => {
   });
 });
 
-/**
- * Get all people with full profiles and analysis
- */
+// List all people
 app.get('/api/people', (req, res) => {
-  const people = loadPeople();
-  res.json(people);
+  res.json(loadPeople());
 });
 
-/**
- * Get single person profile by ID
- */
+// Single person by id
 app.get('/api/people/:id', (req, res) => {
   const people = loadPeople();
   const person = people.find(p => p.id === req.params.id);
-  if (!person) {
-    return res.status(404).json({ error: 'Person not found' });
-  }
+  if (!person) return res.status(404).json({ error: 'Person not found' });
   res.json(person);
 });
 
-/**
- * Get full compatibility rankings for a specific person ("Who fits them best")
- */
+// Compatibility rankings for a given person against all candidates
 app.get('/api/people/:id/rankings', (req, res) => {
   const people = loadPeople();
   const person = people.find(p => p.id === req.params.id);
-  if (!person) {
-    return res.status(404).json({ error: 'Person not found' });
-  }
+  if (!person) return res.status(404).json({ error: 'Person not found' });
 
   const rankings = generateRankingsForPerson(person, people);
   res.json({
@@ -108,29 +92,20 @@ app.get('/api/people/:id/rankings', (req, res) => {
   });
 });
 
-/**
- * Get all simulated dates
- */
+// All simulated dates
 app.get('/api/dates', (req, res) => {
-  const dates = loadDates();
-  res.json(dates);
+  res.json(loadDates());
 });
 
-/**
- * Get single date transcript
- */
+// Single date by id
 app.get('/api/dates/:id', (req, res) => {
   const dates = loadDates();
   const date = dates.find(d => d.id === req.params.id);
-  if (!date) {
-    return res.status(404).json({ error: 'Date not found' });
-  }
+  if (!date) return res.status(404).json({ error: 'Date not found' });
   res.json(date);
 });
 
-/**
- * Live Date Simulation: Pit two agents against each other on a live date
- */
+// Simulate a date between two agents
 app.post('/api/dates/simulate', (req, res) => {
   const { personAId, personBId, venueId } = req.body;
   if (!personAId || !personBId) {
@@ -142,17 +117,15 @@ app.post('/api/dates/simulate', (req, res) => {
   const personB = people.find(p => p.id === personBId);
 
   if (!personA || !personB) {
-    return res.status(404).json({ error: 'One or both people could not be found.' });
+    return res.status(404).json({ error: 'One or both people not found.' });
   }
 
   const newDate = simulateDate(personA, personB, venueId);
   
-  // Persist to dates registry
   const dates = loadDates();
   dates.unshift(newDate);
   saveDates(dates);
 
-  // Update date counters for participants
   personA.stats.datesCompleted = (personA.stats.datesCompleted || 0) + 1;
   personB.stats.datesCompleted = (personB.stats.datesCompleted || 0) + 1;
   savePeople(people);
@@ -160,10 +133,7 @@ app.post('/api/dates/simulate', (req, res) => {
   res.json(newDate);
 });
 
-/**
- * Dual-Source Autonomous Agent Synthesis:
- * Reads a person's LinkedIn & Instagram URLs, parses public data, synthesizes their persona
- */
+// Analyze public LinkedIn and Instagram links to create new agent persona
 app.post('/api/agents/analyze', async (req, res) => {
   const { name, linkedinUrl, instagramUrl } = req.body;
 
@@ -172,7 +142,6 @@ app.post('/api/agents/analyze', async (req, res) => {
   }
 
   try {
-    // 1. Dual-source scraping
     const [linkedinData, instagramData] = await Promise.all([
       scrapeLinkedIn(linkedinUrl),
       scrapeInstagram(instagramUrl)
@@ -181,10 +150,7 @@ app.post('/api/agents/analyze', async (req, res) => {
     const resolvedName = name || linkedinData.name || instagramData.handle.replace(/[-_]/g, ' ') || 'New Persona';
     const id = resolvedName.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
 
-    // 2. Synthesize Agent Persona (needs, hobbies, interests, qualities)
     const agentAnalysis = synthesizeAgentPersona(resolvedName, linkedinData, instagramData);
-
-    // Pick avatar placeholder if not available
     const avatar = `https://images.unsplash.com/photo-${1534528741775 + (resolvedName.length * 1000)}?auto=format&fit=crop&w=400&q=80`;
 
     const newPerson = {
@@ -194,7 +160,7 @@ app.post('/api/agents/analyze', async (req, res) => {
       avatar,
       linkedinUrl,
       instagramUrl,
-      bio: `${resolvedName} represented by their autonomous dating agent. Analyzed from their public professional and visual footprints.`,
+      bio: `${resolvedName} represented by their autonomous dating agent. Sourced from public professional and visual profiles.`,
       sources: {
         linkedinData,
         instagramData
@@ -208,7 +174,6 @@ app.post('/api/agents/analyze', async (req, res) => {
     };
 
     const people = loadPeople();
-    // Check if already exists, else prepend
     const existingIndex = people.findIndex(p => p.id === id || p.linkedinUrl === linkedinUrl);
     if (existingIndex >= 0) {
       people[existingIndex] = newPerson;
@@ -217,7 +182,6 @@ app.post('/api/agents/analyze', async (req, res) => {
     }
     savePeople(people);
 
-    // Compute top match immediately
     const rankings = generateRankingsForPerson(newPerson, people);
     if (rankings.length > 0) {
       newPerson.stats.topMatch = rankings[0].candidateName;
@@ -232,11 +196,11 @@ app.post('/api/agents/analyze', async (req, res) => {
     });
   } catch (error) {
     console.error('Agent analysis error:', error);
-    res.status(500).json({ error: 'Failed to complete agent analysis: ' + error.message });
+    res.status(500).json({ error: error.message });
   }
 });
 
-// Serve frontend if built
+// Static assets for production build
 const clientDist = path.join(__dirname, '..', 'dist');
 if (fs.existsSync(clientDist)) {
   app.use(express.static(clientDist));
@@ -246,5 +210,5 @@ if (fs.existsSync(clientDist)) {
 }
 
 app.listen(PORT, () => {
-  console.log(`Affinity AI Server running on http://localhost:${PORT}`);
+  console.log(`Server listening on http://localhost:${PORT}`);
 });
