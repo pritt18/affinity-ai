@@ -1,6 +1,8 @@
 # Affinity AI
 
-An autonomous dating platform where individuals are represented by AI agents that date on their behalf. Each agent is modeled exclusively from two public digital footprints: an official **LinkedIn profile** (career, skills, intellectual values) and a public **Instagram profile** (lifestyle, hobbies, aesthetic rhythm). The agents converse in real-time, generate internal subconscious monologues, and compute mutual compatibility rankings across the network.
+Affinity AI is an autonomous dating platform where individuals are represented by AI agents that evaluate compatibility and simulate dates on their behalf. Each agent persona is synthesized strictly from two public digital footprints: an official **LinkedIn profile** (professional craft, domain skills, intellectual values) and a public **Instagram profile** (lifestyle, creative hobbies, aesthetic pacing).
+
+The platform allows agents to converse in real-time, generate internal subconscious monologues, track mutual chemistry, and calculate multi-dimensional compatibility rankings across the network.
 
 ---
 
@@ -16,111 +18,77 @@ An autonomous dating platform where individuals are represented by AI agents tha
 
 ---
 
-## Getting Started
+## Quickstart Guide
 
 ### Prerequisites
-
-Ensure you have the following installed on your machine:
-- **Node.js**: version `18.0.0` or higher ([Download Node.js](https://nodejs.org/))
-- **npm**: version `9.0.0` or higher (bundled with Node.js)
+- **Node.js**: v18.0.0 or higher ([Download Node.js](https://nodejs.org/))
+- **npm**: v9.0.0 or higher
 - **Git**: ([Download Git](https://git-scm.com/))
-- **Code Editor**: [Visual Studio Code](https://code.visualstudio.com/) (recommended)
 
 ---
 
-### Step 1: Clone the Repository
-
-Clone the project repository to your local machine and navigate into the project folder:
-
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/pritt18/affinity-ai.git
 cd affinity-ai
 ```
 
-*(If you are opening an existing local copy, open your terminal inside the project root directory, or open the folder directly in VS Code by typing `code .`)*
-
 ---
 
-### Step 2: Install Project Dependencies
-
-Run the following command in the project root to install all backend and frontend packages:
-
+### 2. Install Dependencies
 ```bash
 npm install
 ```
 
 This installs:
-- **Backend**: `express`, `cors`, `axios`, `cheerio`, `dotenv`
-- **Frontend**: `react`, `react-dom`, `vite`, `tailwindcss`, `lucide-react`
-- **Tooling**: `concurrently`, `postcss`, `autoprefixer`
+- **Backend**: Express, Axios, Cheerio, CORS, Dotenv
+- **Frontend**: React 18, Vite, Tailwind CSS, Lucide React
+- **Tooling**: Concurrently, PostCSS, Autoprefixer
 
 ---
 
-### Step 3: Run the Application
-
-You can start the project using either of the following methods:
-
-#### Method A: 1-Click Launch with VS Code Debugger (Recommended)
-The repository includes a ready-to-use `.vscode/launch.json` configuration.
-1. Open the project folder in VS Code (`code .`).
-2. Press **`F5`** on your keyboard.
-   *(Or click the **Run & Debug** icon on the left sidebar `Ctrl+Shift+D` and click the green play button next to **"Affinity AI - Full Application"**)*.
-3. VS Code will automatically start both the backend server and frontend development server in the integrated terminal.
-4. Open your browser and navigate to:
-   ```
-   http://localhost:5173
-   ```
-
-#### Method B: Run via Terminal Command
-In your terminal, run:
+### 3. Development Mode
+Run both the Express API server and the Vite React development server concurrently:
 
 ```bash
 npm run dev
 ```
 
-This concurrently launches:
-- **API Server**: `http://localhost:5000`
-- **Vite React Client**: `http://localhost:5173` (proxies `/api` requests to port 5000)
+- **Client App**: [http://localhost:5173](http://localhost:5173)
+- **API Server**: [http://localhost:5000](http://localhost:5000)
 
-Open your browser and navigate to **`http://localhost:5173`**.
-
----
-
-### Step 4: Production Build & Standalone Run
-
-To verify the optimized production build served directly from the Express backend:
-
-1. Build the frontend bundle:
-   ```bash
-   npm run build
-   ```
-
-2. Start the unified production server:
-   ```bash
-   npm start
-   ```
-
-3. Open **`http://localhost:5000`** in your browser. The single Express process serves both the REST API and the compiled static React application.
+Requests to `/api` from Vite are automatically proxied to the Express backend on port 5000.
 
 ---
 
-### Troubleshooting
+### 4. Production Build & Local Serving
+To build the optimized static production bundle and serve it directly from the Express backend:
 
-- **Port 5000 Already in Use (`EADDRINUSE`)**:
-  - **Windows (PowerShell)**:
-    ```powershell
-    Stop-Process -Id (Get-NetTCPConnection -LocalPort 5000).OwningProcess -Force
-    ```
-  - **macOS / Linux**:
-    ```bash
-    kill -9 $(lsof -ti:5000)
-    ```
-  - Alternatively, specify a different port in a `.env` file (e.g. `PORT=5001`).
-- **Dependencies Cache Reset**:
-  If you ever encounter module resolution warnings across different node versions:
-  ```bash
-  npm clean-install
-  ```
+```bash
+# Build the React production bundle
+npm run build
+
+# Start the unified production server
+npm start
+```
+
+Open [http://localhost:5000](http://localhost:5000) in your browser.
+
+---
+
+## Environment Configuration
+
+A `.env.example` file is included in the root directory:
+
+```env
+PORT=5000
+NODE_ENV=development
+```
+
+Copy it to create your local `.env`:
+```bash
+cp .env.example .env
+```
 
 ---
 
@@ -148,7 +116,7 @@ To verify the optimized production build served directly from the Express backen
             ┌──────────────┘           └──────────────┐
             ▼                                         ▼
 ┌─────────────────────────┐               ┌─────────────────────────┐
-│     Date Arena          │               │  Compatibility Rankings │
+│       Date Arena        │               │  Compatibility Rankings │
 │ Turn-by-Turn Dialogue   │               │ 1-to-25 Leaderboards    │
 │ Subconscious Monologues │               │ Dimensional Breakdown   │
 │ Live Chemistry Meter    │               │ Matching Rationales     │
@@ -197,8 +165,8 @@ To verify the optimized production build served directly from the Express backen
 
 ```
 affinity-ai/
-├── .vscode/
-│   └── launch.json            # 1-click VS Code debugger configuration
+├── api/
+│   └── index.js               # Serverless entry point for Vercel
 ├── server/
 │   ├── data/
 │   │   ├── people.json        # 26 real people profiles (LinkedIn + Instagram)
@@ -208,19 +176,20 @@ affinity-ai/
 │   └── index.js               # Express API and static file server
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.jsx         # Sticky navigation header
+│   │   ├── Navbar.jsx         # Navigation header with tab controls
 │   │   ├── ProfileExplorer.jsx# Persona grid with search and category filters
 │   │   ├── ProfileModal.jsx   # Detailed agent dossier inspection modal
 │   │   ├── DateArena.jsx      # Multi-turn live date simulator with monologues
 │   │   ├── RankingsDashboard.jsx # 25-candidate leaderboard with rationales
 │   │   ├── AddPersonModal.jsx # URL ingestion modal for deploying new agents
-│   │   └── ArchitectureView.jsx# Architecture documentation and pipeline view
+│   │   └── ArchitectureView.jsx# Architecture documentation view
 │   ├── App.jsx                # Main layout and tab orchestrator
 │   ├── index.css              # Custom Tailwind styles and scrollbars
 │   └── main.jsx               # React client entry point
 ├── index.html                 # HTML template
 ├── package.json               # Scripts and dependency definitions
 ├── tailwind.config.js         # Theme styling configuration
+├── vercel.json                # Vercel deployment rewrites
 └── vite.config.js             # Vite build and proxy configuration
 ```
 
@@ -231,7 +200,7 @@ affinity-ai/
 - **Frontend**: React 18, Vite 6, Tailwind CSS, Lucide React
 - **Backend**: Node.js, Express 4, Axios, Cheerio
 - **Database**: File-backed JSON store with in-memory caching
-- **Theme**: Clean elevated light canvas with soft ambient glow
+- **Deployment**: Vercel (frontend static hosting & serverless API rewrites)
 
 ---
 
